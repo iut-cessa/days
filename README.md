@@ -1,4 +1,4 @@
-days
+Days
 ====
 
 "Days" are events held by IUT-CESSA in which students learn something in practice. It is different from [Dorehami](https://github.com/iut-cessa/dorehami)s, as Dorehamis are mostly theoretical, but Days are totally practical.  
