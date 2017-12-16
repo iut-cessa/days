@@ -17,3 +17,10 @@ Events held
   * Date: 14 Aban 1396 (2017 Nov 5)
   * Duration: 2 hours
   * [Source code](tbotday)
+
+#### 3. Screen day
+  * Goal: Screen the movie "The human face of big data"
+  * Instructor: N/A
+  * Date: 14 Azar 1396 (2017 Dec 5)
+  * Duration: 1 hour
+  * [Trailer](https://www.youtube.com/watch?v=NpA3gP9xHMg)
