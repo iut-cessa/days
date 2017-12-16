@@ -24,3 +24,12 @@ Events held
   * Date: 14 Azar 1396 (2017 Dec 5)
   * Duration: 1 hour
   * [Trailer](https://www.youtube.com/watch?v=NpA3gP9xHMg)
+
+#### 4. Docker day
+  * Goal: Get the hands of students dirty learning basics of Docker
+  * Instructor: Alireza Omidi
+  * Date: 19 Azar 1396 (2017 Dec 10)
+  * Duration: 2.5 hours
+  * Slides: [pdf](dockerday/Docker.pdf) | [pptx ](dockerday/Docker.pptx)
+  * [Sample Dockerfile](dockerday/Dockerfile)
+  * [Sample demo project](https://github.com/Cloud-Demo-Team/voting-demo)
