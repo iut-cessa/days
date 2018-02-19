@@ -41,3 +41,11 @@ Events held
   * Duration: 2.5 hours
   * [Slides](elclasicoday/elclasico.pdf)
   * [Jupiter notebook notes](elclasicoday/elclasico.ipynb)
+
+#### 6. LaTeX day
+* Goal: Teach students the basics of LaTeX practically
+* Instructor: Mahdi Fooladgar
+* Date: 17 Bahman 1396 (2018 Feb 6)
+* Duration: 2 hours
+* Slides: [part 1](latexday/p1.pdf) | [part 2](latexday/p2.pdf) | [part 3](latexday/p3.pdf)
+* [Source code](latexday/latex)
