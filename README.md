@@ -33,3 +33,11 @@ Events held
   * Slides: [pdf](dockerday/Docker.pdf) | [pptx ](dockerday/Docker.pptx)
   * [Sample Dockerfile](dockerday/Dockerfile)
   * [Sample demo project](https://github.com/Cloud-Demo-Team/voting-demo)
+
+#### 5. El Clasico day
+  * Goal: Predict the result of El Clasico 2017
+  * Instructor: Alireza Omidi / Mohammad Sadegh Akhoundzadeh
+  * Date: 2 Dey 1396 (2017 Dec 23)
+  * Duration: 2.5 hours
+  * [Slides](elclasicoday/elclasico.pdf)
+  * [Jupiter notebook notes](elclasicoday/elclasico.ipynb)
