@@ -24,6 +24,7 @@ Events held
   * Date: 14 Azar 1396 (2017 Dec 5)
   * Duration: 1 hour
   * [Trailer](https://www.youtube.com/watch?v=NpA3gP9xHMg)
+  * [Persian subtitle](tbotday)
 
 #### 4. Docker day
   * Goal: Get the hands of students dirty learning basics of Docker
