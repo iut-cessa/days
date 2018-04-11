@@ -1,0 +1,6645 @@
+1
+00:00:10,288 --> 00:00:15,327
+(piano music)
+
+2
+00:00:24,268 --> 00:00:25,484
+- [Voiceover] In the near future,
+در آینده‌ای نزدیک،
+
+3
+00:00:25,484 --> 00:00:28,806
+every object on earth
+هر چیزی روی زمین
+will be generating data,
+داده تولید خواهد کرد
+
+4
+00:00:28,806 --> 00:00:31,418
+including our homes, our cars,
+از جمله خانه‌ها، ماشین‌ها،
+
+5
+00:00:31,418 --> 00:00:33,135
+even our bodies.
+و حتی بدن‌هایمان.
+
+6
+00:00:33,135 --> 00:00:34,363
+- Do you see it?
+- می‌بینیش؟
+
+7
+00:00:35,246 --> 00:00:36,996
+Yeah, right up there.
+آره، درست اون بالا.
+
+8
+00:00:37,515 --> 00:00:39,527
+- [Voiceover] Almost
+- امروزه  تقریباً هر کاری که
+everything we do today
+انجام می‌دهیم
+
+9
+00:00:39,527 --> 00:00:42,219
+leaves a trail of digital exhaust,
+ردی از پسماند دیجیتالی به جا می‌گذارد،
+
+10
+00:00:42,219 --> 00:00:44,865
+a perpetual stream of
+جریانی مداوم از
+texts, location data,
+متون، داده‌ی مکانی،
+
+11
+00:00:44,865 --> 00:00:47,346
+and other information that will live on
+و سایر اطلاعاتی که باقی خواهند ماند
+
+12
+00:00:47,346 --> 00:00:50,241
+well after each of us is long gone.
+[حتی] مدت‌ها پس از این که تک تک ما [از دنیا] رفته‌ایم.
+
+13
+00:00:53,361 --> 00:00:55,924
+We are now being exposed
+ما هم‌اکنون ، تنها در یک روز، به همان اندازه
+to as much information
+در معرض اطلاعات هستیم
+
+14
+00:00:55,924 --> 00:00:59,797
+in a single day as our
+که نیاکان قرن پانزدهمی‌مان
+15th century ancestors
+در طی تمام عمرشان
+
+15
+00:00:59,797 --> 00:01:03,151
+were exposed to in their entire lifetime.
+در معرض آن قرار داشتند.
+
+16
+00:01:04,031 --> 00:01:06,350
+But we need to be very careful
+اما باید بسیار مراقب باشیم
+
+17
+00:01:06,350 --> 00:01:08,410
+because in this vast ocean of data
+چرا که در این اقیانوس ژرف داده‌ها
+
+18
+00:01:08,410 --> 00:01:12,154
+there's a frighteningly
+به شکلی نگران کننده
+complete picture of us,
+تصویری کامل از ما وجود دارد،
+
+19
+00:01:12,154 --> 00:01:14,379
+where we live, where we go,
+[که] کجا زندگی می‌کنیم، به کجا می‌رویم،
+
+20
+00:01:14,379 --> 00:01:16,860
+what we buy, what we say,
+چه چیزی می‌خریم، [و این که] چه می‌گوییم،
+
+21
+00:01:16,860 --> 00:01:21,021
+it's all being recorded
+همگی  در حال ثبت
+and stored forever.
+و نگهداری ابدی شدن‌اند.
+
+22
+00:01:22,827 --> 00:01:25,648
+This is the story of an
+این داستان یک انقلاب
+extraordinary revolution
+خارق‌العاده است
+
+23
+00:01:25,648 --> 00:01:28,925
+that's sweeping almost
+که به گونه‌ای تقریباً نامرئی
+invisibly through our lives
+در حال خزش به درون زندگی ماست
+
+24
+00:01:28,925 --> 00:01:31,032
+and about how our planet
+و در این باره [است] که چگونه سیاره‌ی ما
+is beginning to develop
+در بدو توسعه‌ی
+
+25
+00:01:31,032 --> 00:01:35,824
+a nervous system with each of
+یک سیستم عصبی با هر یک
+us acting as human sensors.
+از ما در نقش حسگر‌های انسانی [آن] است.
+
+26
+00:01:37,081 --> 00:01:40,282
+This is the human face of big data.
+این وجهه‌ی انسانی کلان داده است.
+
+27
+00:01:43,928 --> 00:01:45,702
+- All these devices and
+همه‌ی وسایل و
+machines and everything
+دستگاه‌ها و هر چیزی
+
+28
+00:01:45,702 --> 00:01:47,844
+we're building these days,
+که ما این روزا می‌سازیم،
+whether it's phones or computers
+چه موبایل باشن با کامپیوتر
+
+29
+00:01:47,844 --> 00:01:51,712
+or cars or refrigerators,
+یا ماشین یا یخچال،
+are throwing off data.
+دارن از خودشون داده می‌دن.
+
+30
+00:01:52,630 --> 00:01:56,165
+- Information is being
+اطلاعات الآن دیگه از
+extracted out of toll booths,
+ایست‌های بازرسی
+
+31
+00:01:56,165 --> 00:01:57,640
+out of parking spaces,
+از مکان‌های پارک،
+
+32
+00:01:57,640 --> 00:01:59,441
+out of Internet searches,
+از جستجوهای اینترنتی،
+
+33
+00:01:59,441 --> 00:02:01,958
+out of Facebook, out of your phone,
+از فیس بوک، از موبایلتون،
+
+34
+00:02:01,958 --> 00:02:04,311
+tablets, photographs, videos.
+تبلت‌ها، عکس‌ها، [و] فیلم‌ها استخراج می‌شه.
+
+35
+00:02:04,311 --> 00:02:08,569
+- Every single thing that you
+- تک تک کار‌های که می‌‌کنید
+do leaves a digital trace.
+یه رد دیجیتالی از خودشون به جا می‌ذارن.
+
+36
+00:02:08,569 --> 00:02:11,097
+- The exhaust or evidence of humans
+- پسماند یا گواه تعامل آدما با
+
+37
+00:02:11,097 --> 00:02:15,334
+interacting with technology
+تکنولوژی و [این که]
+and what side effect that has
+چه عوارض جانبی داره
+
+38
+00:02:15,334 --> 00:02:18,904
+and that's literally, it's just
+و این به معنای واقعی کلمه، واقعاً
+this massive amount of data.
+یه عالمه داده‌ است.
+
+39
+00:02:25,009 --> 00:02:26,306
+- What we're doing is
+- کاری که ما داریم می‌کنیم
+we're measuring things
+[اینه که] داریم چیز‌ها رو
+
+40
+00:02:26,306 --> 00:02:27,523
+more than we ever have.
+بیش از هر زمان دیگه‌ای اندازه‌گیری می‌کنیم.
+
+41
+00:02:27,523 --> 00:02:30,587
+It's that active measurement
+این همون اندازه‌گیری دائمه
+that produces data.
+که داده رو تولید می‌کنه.
+
+42
+00:02:30,587 --> 00:02:32,985
+- If you were some omniscient god
+- اگه شما یه خدای بینا به همه چیز بودید
+
+43
+00:02:32,985 --> 00:02:35,770
+and you could look at the
+و می‌تونستید به ردپای دستگاه‌های
+footprints of electric devices,
+الکتریکی نگاه کنید،
+
+44
+00:02:35,770 --> 00:02:37,738
+you could kind of see the world.
+[اون وقت] به نوعی [می‌شه گفت] میتونستید دنیا رو نظاره کنید.
+
+45
+00:02:37,738 --> 00:02:41,071
+If the whole world is being
+اگه تمام دنیا در حال ضبط شدن
+recorded in real time,
+به صورت به‌هنگام باشه،
+
+46
+00:02:41,071 --> 00:02:42,922
+you could see everything
+شما می‌تونید هر چیزی که در حال
+that is going on in the world
+رخ دادن توی این دنیا هست رو
+
+47
+00:02:42,922 --> 00:02:45,226
+through the footprints.
+از طریق ردپا‌ها ببینید.
+
+48
+00:02:45,226 --> 00:02:46,525
+I think it's a lot like
+من فکر می‌کنم خیلی شبیه به
+written language, right,
+زبان نوشتاری هست، خوب،
+
+49
+00:02:46,525 --> 00:02:48,003
+it's just at some point
+انگار دیگه در یه جایی
+they got to the point
+به جایی رسیدن که
+
+50
+00:02:48,003 --> 00:02:49,398
+where you had to start writing stuff down.
+باید شروع می‌کردید به نوشتن چیز‌ها.
+
+51
+00:02:49,398 --> 00:02:51,491
+You just got to the point
+شما به جایی رسیدید
+where it wouldn't work
+[دیگه] جواب نمی‌داد
+
+52
+00:02:51,491 --> 00:02:53,094
+unless we wrote it down,
+مگه این که می‌نوشتینش
+which is making the same point
+ما هم داریم به همون جایی می‌رسیم
+
+53
+00:02:53,094 --> 00:02:54,945
+where well it ain't gonna
+که ، خوب، دیگه جواب نمی‌ده
+work unless we write
+مگه این که همه‌ی داده‌ها
+
+54
+00:02:54,945 --> 00:02:56,792
+all the data down and then look at it.
+رو [یه جایی] بنویسیم و بعد بهش نگاه کنیم.
+
+55
+00:02:56,792 --> 00:02:59,942
+- And all that data coming in is big data.
+- و همه‌ی این داده‌های ورودی [روی هم] کلان‌داده هستن.
+
+56
+00:03:01,072 --> 00:03:04,313
+- We estimate that by 2020
+- ما تخمین می‌زنیم که تا ۲۰۲۰
+
+57
+00:03:04,313 --> 00:03:08,139
+the data volumes will be
+حجم داده‌ها در حدود
+at about 40 zigabytes.
+۴۰ زیگابایت خواهد بود.
+
+58
+00:03:08,139 --> 00:03:09,275
+Just to put it in perspective,
+صرفاً برای در  در مخیله گنجاندنش،
+
+59
+00:03:09,275 --> 00:03:11,710
+if you were to add up
+اگه شما قرار بود تک تک ذرات
+every single grain of sand
+شن روی [این] سیاره رو
+
+60
+00:03:11,710 --> 00:03:14,904
+on the planet and multiply that by 75,
+با هم جمع کنید و اونو در ۷۵ ضرب کنید،
+
+61
+00:03:14,904 --> 00:03:18,353
+that would be 40 zigabytes of information.
+[اون وقت تازه] می‌شد ۴۰ زیگابایت از اطلاعات.
+
+62
+00:03:19,785 --> 00:03:22,733
+- All the data processing
+- مجموع پردازش‌ داده‌هایی که
+we did in the last two years
+ما در دو سال گذشته انجام دادیم
+
+63
+00:03:22,733 --> 00:03:24,324
+is more than all the data processing
+بیشتز از تمام پردازش‌ داده‌هایی هست که
+
+64
+00:03:24,324 --> 00:03:27,938
+we did in the last 3,000 years.
+ما در ۳۰۰۰ سال گذشته انجام داده بودیم.
+
+65
+00:03:27,938 --> 00:03:30,126
+- And so the more information we get,
+- و بنابراین هر چه اطلاعات بیشتری به دست بیاریم،
+
+66
+00:03:30,126 --> 00:03:33,327
+the larger the problems
+مسائلی که حل می‌کنیم هم
+will be that we solve.
+به همون نسبت بزرگ تر خواهند بود.
+
+67
+00:03:35,171 --> 00:03:38,236
+- Every powerful tool has a
+- هر ابزار قدرتمندی یه
+dark side, every last one.
+جنبه‌ی تاریک داره، هر کدومشون.
+
+68
+00:03:38,236 --> 00:03:39,629
+Anything that's going to change the world,
+هر چیزی که قرار باشه دنیا رو تغییر بده،
+
+69
+00:03:39,629 --> 00:03:42,905
+by definition has to be able
+بنا به تعریف باید قادر باشه
+to change it for the worse
+تا اون رو به همون اندازه که
+
+70
+00:03:42,905 --> 00:03:44,088
+as much as for the better.
+که برای بهتر شدن تغییر می‌ده، برای بدتر شدن هم تغییر بده.
+
+71
+00:03:44,088 --> 00:03:47,021
+It doesn't work one way without the other.
+یکی از این‌ها بدون دیگری جواب نمی‌ده.
+
+72
+00:03:47,021 --> 00:03:48,366
+- When it comes to big
+- وقتی حرف از کلان داده
+data, a lot of people
+به میون میاد، خیلی از مردم
+
+73
+00:03:48,366 --> 00:03:49,876
+are very nervous.
+به شدت نگران می‌شن.
+
+74
+00:03:49,876 --> 00:03:52,568
+Data can be used in any number of ways
+داده می‌تونه به راه‌های متعددی
+
+75
+00:03:52,568 --> 00:03:55,179
+that you're either aware of or you're not.
+که شما یا از اون آگاه هستید یا این که نیستید استفاده بشه.
+
+76
+00:03:55,179 --> 00:03:58,838
+The less aware of the use
+هر چه کمتر از کاربرد
+of that data that you are,
+اون داده مطلع باشید،
+
+77
+00:03:58,838 --> 00:04:01,740
+the less power you have
+قدرت کمتری هم در
+in the coming society
+جامعه‌ی پیش رو که
+
+78
+00:04:01,740 --> 00:04:02,746
+we're going to live.
+قراره توش زندگی کنیم خواهید داشت.
+
+79
+00:04:02,746 --> 00:04:04,725
+- Well sort of just in the
+- ما تازه اول
+beginning of this big data thing,
+این پدیده‌ی کلان داده‌ای هستیم
+
+80
+00:04:04,725 --> 00:04:05,851
+you don't know how it's
+شما نمی‌دونید چه طوری
+going to change it,
+قراره  همه‌چیز رو عوض کنه،
+
+81
+00:04:05,851 --> 00:04:07,503
+but you just know it is.
+اما می‌دونید که این [کارو] می‌کنه.
+
+82
+00:04:07,503 --> 00:04:12,541
+(dramatic music)
+
+83
+00:04:19,526 --> 00:04:23,426
+- The first real data set to
+- اولین مجموعه‌ داده‌ای که واقعاً
+change everything in the world
+همه چیز رو توی دنیا تغییر داد
+
+84
+00:04:23,426 --> 00:04:25,611
+was the astronomical data set,
+مجموعه ‌داده‌های نجومی بود،
+
+85
+00:04:25,611 --> 00:04:29,850
+meticulously collected over
+[که] در طی ده‌ها سال با دقتی
+tens of years by Copernicus
+وسواس گونه توسط کوپرنیک جمع‌اوری شده بود
+
+86
+00:04:29,850 --> 00:04:32,478
+that ultimately revealed, even
+که سرانجام آشکار کرد که، هرچند
+though the sun seemed to be
+خورشید به نظر می‌رسید
+
+87
+00:04:32,478 --> 00:04:35,128
+moving over the sky every
+داره بالای آسمون ، هر روز و
+morning and every night,
+هر شب حرکت می‌کنه،
+
+88
+00:04:35,128 --> 00:04:37,685
+the sun is not moving,
+[اما] خورشید حرکت نمی‌کنه،
+it is we who are moving,
+این ماییم که در حال حرکتیم،
+
+89
+00:04:37,685 --> 00:04:39,529
+it is we who are spinning.
+این ماییم که داریم می‌چرخیم.
+
+90
+00:04:39,529 --> 00:04:41,829
+It happened again when
+باز دوباره وقتی که
+we suddenly could see
+یه دفعه تونستیم
+
+91
+00:04:41,829 --> 00:04:43,104
+beneath the visible level
+زیر سطح مرئی رو ببینیم اتفاق افتاد
+
+92
+00:04:43,104 --> 00:04:45,742
+and the microscope in the 1650s and 60s,
+و میکروسکوپ ‌ها در دهه‌ی ۱۶۵۰ و ۶۰،
+
+93
+00:04:45,742 --> 00:04:48,628
+opened up the invisible world
+جهان نامرئی رو به روی ما گشودن
+
+94
+00:04:48,628 --> 00:04:52,202
+and we for the first time
+و ما برای نخستین بار
+were seeing cells and bacteria
+داشتیم سلول‌ها و باکتری‌ها
+
+95
+00:04:52,202 --> 00:04:55,145
+and creatures that we
+و موجوداتی رو می‌دیدیم که
+couldn't imagine were there.
+نمی‌تونستیم تصور کنیم اون‌جا وجود دارن.
+
+96
+00:04:55,145 --> 00:04:57,958
+It then happened again when
+و باز هم دوباره وقتی که
+we revealed the atomic world,
+جهان اتمی رو کشف کردیم اتفاق افتاد،
+
+97
+00:04:57,958 --> 00:04:59,419
+when we said wait a
+وقتی گفتیم یه لحظه صبر کن
+second, there's a level
+ببینم، [انگار] سطحی
+
+98
+00:04:59,419 --> 00:05:01,941
+below the optical microscope
+پایین‌تر از میکروسکوپ نوری هم هست
+where we could begin
+وقتی که شروع به دیدن
+
+99
+00:05:01,941 --> 00:05:05,502
+to see things at billionths of
+چیز‌ها رو در مقیاس نانومتری،
+a meter at a nanometer scale,
+در حد یک میلیاردم متر کردیم،
+
+100
+00:05:05,502 --> 00:05:07,313
+where we imagined the atom and the nucleus
+وقتی که اتم‌ و توکلئوس‌
+
+101
+00:05:07,313 --> 00:05:09,448
+and the electron, where
+و الکترون رو مجسم کردیم، وقتی که
+we understood that light
+فهمیدیم نور
+
+102
+00:05:09,448 --> 00:05:11,971
+is electromagnetic frequencies.
+فرکانس الکترومغناطیسی هست.
+
+103
+00:05:11,971 --> 00:05:14,645
+But now, there's actual
+اما حالا، در واقع یه جهان فرامرئی
+a supervisible world
+داره صحنه‌ی بازی رو
+
+104
+00:05:14,645 --> 00:05:16,113
+coming into play.
+به دست می‌گیره.
+
+105
+00:05:16,113 --> 00:05:18,882
+Ironically, big data is a microscope.
+به طور کنایی، کلان داده یه میکروسکوپه.
+
+106
+00:05:18,882 --> 00:05:21,777
+We're now collecting exabytes
+ما در حال حاضر اگزابایت‌ها و
+and petabytes of data
+پتابایت‌ها داده رو جمع‌اوری می‌کنیم
+
+107
+00:05:21,777 --> 00:05:23,833
+and we're looking through that microscope
+و از دریچه‌ی این میکروسکوپ ،
+
+108
+00:05:23,833 --> 00:05:25,932
+using incredibly powerful algorithms
+با استفاده از الگریتم‌های فوق‌العاده قدرتمند بهش نگاه می‌کنیم
+
+109
+00:05:25,932 --> 00:05:29,548
+to see what we would never see before.
+تا چیز‌هایی رو ببینیم که تا قبل از اون هرگز امکان نداشت ببینیم.
+
+110
+00:05:32,565 --> 00:05:34,838
+- Before what we did was we
+- قبلاً کاری می‌کردیم این بود که
+
+111
+00:05:34,838 --> 00:05:37,853
+thought of things and
+به چیز‌ها فکر می‌کریم و
+then we wrote it down
+بعد مکتوب می‌کردیم
+
+112
+00:05:37,853 --> 00:05:40,531
+and that became knowledge.
+و اون می‌شد دانش.
+
+113
+00:05:42,088 --> 00:05:43,268
+Big data's kind of the opposite.
+کلان‌داده یه جورایی برعکسه.
+
+114
+00:05:43,268 --> 00:05:47,460
+You have a pile of data
+شما انبوهی از داده دارید
+that isn't knowledge really
+که واقعاً نمی‌شه بهش گفت دانش
+
+115
+00:05:47,460 --> 00:05:49,971
+until you start looking
+مگر تا وقتی که شروع به
+at it and noticing wait,
+نگاه به اون و توجه کنید [و بگید] صبر کن،
+
+116
+00:05:49,971 --> 00:05:52,201
+maybe if you shift it this
+شاید اگه به این طرف جهتش بدی
+way and you shift it this way,
+و [بعد] به اون طرف
+
+117
+00:05:52,201 --> 00:05:55,129
+this turns into this interesting
+به قطعه‌ی جالبی از اطلاعات
+piece of information.
+تبدیل بشه.
+
+118
+00:05:55,129 --> 00:05:57,979
+- I think that the BDAD moment,
+- من فکر می‌کنم که لحظه‌ی ق.د.ب.د
+
+119
+00:05:57,979 --> 00:06:00,174
+you know, before data, after data moment,
+می‌دونین دیگه، لحظه‌ی قبل از داده، بعد از داده،
+
+120
+00:06:00,174 --> 00:06:01,642
+is really Search.
+در واقع جستجو هست.
+
+121
+00:06:01,642 --> 00:06:04,527
+(tapping)
+
+122
+00:06:04,527 --> 00:06:08,212
+That was the moment at which we got a tool
+این لحظه‌ای هست که در اون ما یه ابزار در اختیار داریم
+
+123
+00:06:08,212 --> 00:06:11,752
+that was used by hundreds
+که توسط صد‌ها میلیون انسان
+of millions of people
+در طی چند سال
+
+124
+00:06:11,752 --> 00:06:13,213
+within a few years,
+استفاده شده،
+
+125
+00:06:13,213 --> 00:06:16,657
+where we could navigate
+جایی که می‌تونیم
+an incredible amount
+در مقدار بی‌نظیری از
+
+126
+00:06:16,657 --> 00:06:18,464
+of information.
+اطلاعات سیاحت کنیم.
+
+127
+00:06:18,464 --> 00:06:22,305
+We took all of human knowledge
+ما تمام دانش بشری رو
+that was in text, right,
+که در قالب متن بود گرفتیم، خوب،
+
+128
+00:06:22,305 --> 00:06:23,919
+and we put it on the web
+و روی وب گذاشتیمش
+
+129
+00:06:23,919 --> 00:06:25,622
+and we thought to
+و با خودمون فکر
+ourselves, "Well we're done.
+کردیم، خوب کارمون تموم شد.
+
+130
+00:06:25,622 --> 00:06:27,012
+"Wow that was hard."
+وای ، چه قدر سخت بود.
+
+131
+00:06:27,012 --> 00:06:30,364
+And now we realize that
+و حالا می‌فهمیم که اون
+was the first minute
+اولین دقیقه از
+
+132
+00:06:30,364 --> 00:06:33,307
+of the first inning of the game, right,
+اولین نوبت بازی بوده، درسته،
+
+133
+00:06:33,307 --> 00:06:35,410
+because that was just the
+چون که اونا دانشی
+knowledge we already had
+بودن که قبلاً داشتیمشون
+
+134
+00:06:35,410 --> 00:06:37,673
+and the knowledge that we
+و همچنین دانشی که ادامه به
+continue to add to the web
+اضافه به وب کردنش
+
+135
+00:06:37,673 --> 00:06:41,063
+at a relatively slow pace, you know.
+با سرعت نستباً کمی می‌کنیم [ هم همین طور هستن]، خودتون می‌دونید.
+
+136
+00:06:41,063 --> 00:06:42,871
+But there is so much more information
+اما اطلاعات خیلی بیشتری وحود داره
+
+137
+00:06:42,871 --> 00:06:44,810
+that we have not
+که ما دیجیتالیشون نکردیم و
+digitized and so much more
+اطلاعات خیلی بیشتری
+
+138
+00:06:44,810 --> 00:06:47,577
+information that we're
+که قصد داریم ازشون
+about to take advantage of.
+بهره ببریم.
+
+139
+00:06:47,577 --> 00:06:51,422
+(piano music)
+
+140
+00:06:51,422 --> 00:06:53,947
+- [Voiceover] In recent years,
+- در سال  های اخیر،
+our technology has allowed us
+تکنولوژی ما به ما اجازه داده است
+
+141
+00:06:53,947 --> 00:06:57,883
+to store and process
+تا مقادیر عظیمی از داده
+mass quantities of data.
+را ذخیره و پردازش کنیم.
+
+142
+00:06:59,537 --> 00:07:01,824
+Visualizing that data will allow us to see
+مصور کردن این داده‌ها به ما اجاره می‌دهد
+
+143
+00:07:01,824 --> 00:07:04,397
+complex systems function,
+تا عملکرد سیستم‌های پیچیده را ببینیم،
+
+144
+00:07:05,523 --> 00:07:07,382
+see patterns and meaning in ways
+الگو‌ها و معانی را به روش ‌هایی
+
+145
+00:07:07,382 --> 00:07:10,225
+that were previously impossible.
+ببینیم که تا پیش از این ناممکن بود.
+
+146
+00:07:11,946 --> 00:07:16,263
+Almost everything is
+تقریباً هر چیزی
+measurable and quantifiable.
+سنجش‌پذیر و قابل‌اندازه‌گیری (ریاضی) است.
+
+147
+00:07:25,071 --> 00:07:26,848
+- So when I look at data,
+- بنابراین وقتی که من به داده نگاه می‌کنم
+what's exciting to me
+چیزی که برام هیجان انگیزه
+
+148
+00:07:26,848 --> 00:07:28,728
+is kind of recontextualizing that data
+یه جورایی باز-زمینه-بخشی به اون داده هست
+
+149
+00:07:28,728 --> 00:07:30,783
+and taking it and putting
+و گرفتنش و سر هم
+it back into a form
+کردن دوباره‌اش به شکلی که
+
+150
+00:07:30,783 --> 00:07:33,809
+that we can perceive,
+بتونیم ببینیمش،
+understand, talk about,
+بفهمیمش، درباره‌اش حرف بزنیم،
+
+151
+00:07:33,809 --> 00:07:35,321
+think about.
+و درباره‌اش فکر کنیم.
+
+152
+00:07:36,786 --> 00:07:38,130
+- [Voiceover] This is the
+- این داده‌ها‌ی
+data for airplane traffic
+ترافیک هوایی
+
+153
+00:07:38,130 --> 00:07:41,025
+over North America for a 24-hour period.
+در بازه‌ی ۲۴ ساعتی بر فراز آمریکای شمالی هست.
+
+154
+00:07:41,025 --> 00:07:42,496
+When it's visualized,
+وقتی مصور می‌شه،
+you see everything starts
+می‌بینید که همه چیز شروع
+
+155
+00:07:42,496 --> 00:07:45,088
+to fade to black as
+به محو شدن در سیاهی می‌شه
+everyone goes to sleep,
+چون همه‌ می‌رن تا بخوابن،
+
+156
+00:07:45,088 --> 00:07:47,026
+then on the West Coast,
+بعد در سواحل غربی،
+planes start moving across
+هواپیما‌ها شروع به حرکت به
+
+157
+00:07:47,026 --> 00:07:49,034
+on red-eye flights to the east
+سمت پرواز‌های نیمه‌شب به سمت شرق می‌کنن
+
+158
+00:07:49,034 --> 00:07:50,963
+and you see everyone waking
+و می‌بینید که همه توی سواحل شرقی
+up on the East Coast,
+بیدار می‌شن،
+
+159
+00:07:50,963 --> 00:07:54,824
+followed by European flights
+و به دنبالش پرواز‌های اروپایی
+in the upper right-hand corner.
+در گوشه‌ی بالای سمت راست  [رو میبینید].
+
+160
+00:07:54,824 --> 00:07:57,172
+I think it's one thing to say
+فکر می‌کنم این که بگید
+that there's 140,000 planes
+۱۴۰ هزار تا هواپیما
+
+161
+00:07:57,172 --> 00:08:00,361
+being monitored by the federal
+دارن توسط دولت فدرال ، در هر لحظه‌ای،
+government at any one time
+رصد می‌شن یه چیزه
+
+162
+00:08:00,361 --> 00:08:01,749
+and it's another thing to see that system
+و دیدن اون سیستم با الگوی افت و خیز ریتمیکش
+
+163
+00:08:01,749 --> 00:08:04,501
+as it ebbs and flows in front of you.
+در برابر [چشم ها]تون یه چیز دیگه‌است.
+
+164
+00:08:09,843 --> 00:08:12,107
+These are text messages being
+اینا پیام‌های متنی هستند که دارن
+sent in the city of Amsterdam
+توی شهر آمستردام در روز
+
+165
+00:08:12,107 --> 00:08:13,580
+on December 31st.
+۳۱ دسامبر ارسال می‌شن.
+
+166
+00:08:13,580 --> 00:08:15,213
+You're seeing the daily
+شما دارید جریان روزانه‌ی
+flow of text messages
+پیام‌های متنی
+
+167
+00:08:15,213 --> 00:08:17,817
+from different parts of the
+از مناطق مختلف شهر
+city until we approach midnight,
+تا نزدیک شدن به نیمه‌شب رو می‌بینید،
+
+168
+00:08:17,817 --> 00:08:19,240
+where everyone says--
+که همه می‌گن--
+
+169
+00:08:19,240 --> 00:08:21,968
+- [Voiceover] Happy New Year!
+- سال نو مبارک!
+
+170
+00:08:22,476 --> 00:08:25,454
+- It takes people or
+نیاز به افراد یا
+programs or algorithms
+برنامه‌ها یا الگریتم‌هایی هست
+
+171
+00:08:25,454 --> 00:08:28,175
+to connect it all together
+تا همه رو یک جا به هم متصل کنن
+to make sense of it
+تا معنادارش کنن
+
+172
+00:08:28,175 --> 00:08:29,438
+and that's what's important.
+و این چیزی هست که مهمه.
+
+173
+00:08:29,438 --> 00:08:32,962
+We have every single action
+ما [از یک طرف] تک تک کارهایی
+that we do in this world
+که توی این دنیا انجام می‌دیم
+
+174
+00:08:32,962 --> 00:08:36,067
+is triggering off some amount of data
+که در حال تولید مقداری داده هستن رو داریم
+
+175
+00:08:36,067 --> 00:08:37,527
+and most of that data is meaningless
+و [از طرفی] اکثر این داده‌ها بی معنی هستن
+
+176
+00:08:37,527 --> 00:08:40,553
+until someone adds some
+مگه تا وقتی که یکی یه
+interpretation of it,
+تفسیری از اون رو اضافه کنه،
+
+177
+00:08:40,553 --> 00:08:43,408
+someone adds a narrative around it.
+یکی یه روایتی درباره‌اش اضافه‌ کنه.
+
+178
+00:08:49,684 --> 00:08:51,962
+- Often, we sort of think
+- غالباً، ما یه جورایی به
+of data as stranded numbers,
+داده به چشم اعداد [به حال خود] رها شده
+
+179
+00:08:51,962 --> 00:08:54,520
+but they're tethered to things
+نگاه می‌کنیم اما اونا به اشیاء گره خورده‌ان
+
+180
+00:08:54,520 --> 00:08:57,415
+and if we follow those
+و اگه ما این گره‌ها رو
+tethers in the right ways,
+به گونه‌ای درست دنبال کنیم،
+
+181
+00:08:57,415 --> 00:09:00,686
+then we can find the real-world objects
+اون وقت می‌تونیم اشیای دنیای واقعی
+
+182
+00:09:00,686 --> 00:09:02,460
+and the real-world
+و داستان‌های دنیای واقعی
+stories that were there.
+که اونجا [پشت اونا] وجود داشتن رو پیدا کنیم.
+
+183
+00:09:02,460 --> 00:09:05,683
+So a lot of the work is that kind of work.
+پس قسمت عمده‌ی کار از این دست کارهاست.
+
+184
+00:09:05,683 --> 00:09:09,083
+It's almost investigative
+تقریباً کار پژوهشی
+work of trying to follow
+سعی برای دنبال کردن
+
+185
+00:09:09,083 --> 00:09:12,474
+that trail from the data
+اون رد، از داده به
+to what actually happened.
+چیزی که در واقع اتفاق افتاده هست.
+
+186
+00:09:18,986 --> 00:09:20,655
+- Sometimes the power of large data sets
+- گاهی اوقات قدرت مجموعه‌های بزرگ داده
+
+187
+00:09:20,655 --> 00:09:22,915
+isn't immediately obvious.
+به طور مستقیم واضح نیستن.
+
+188
+00:09:23,598 --> 00:09:25,112
+Google flu trends is a great example
+ترند آنفولانزای گوگل یه مثال عالی
+
+189
+00:09:25,112 --> 00:09:28,127
+of taking a look at a
+از نگاه انداختن به
+massive corpus of data
+مجموعه‌ی متنی عظیمی از داده‌
+
+190
+00:09:28,127 --> 00:09:30,182
+and deriving somewhat
+و استنتاج اطلاعات
+tangential information
+تا حدودی بی‌ربط [جانبی] هست
+
+191
+00:09:30,182 --> 00:09:33,040
+that can actually be really valuable.
+که در واقع می‌تونن جداً با ارزش باشن.
+
+192
+00:09:33,040 --> 00:09:35,096
+- [Voiceover] Until recently,
+- تا کمی پیش تر،
+the only way to detect
+تنها راه تشخیص
+
+193
+00:09:35,096 --> 00:09:37,865
+a flu epidemic was by
+یک اپیدمی آنفولانزا از طریق
+accumulating information
+انباشت کردن اطلاعات
+
+194
+00:09:37,865 --> 00:09:40,630
+submitted by doctors about patient visits,
+ارائه شده توسط دکترها در مورد ویزیت‌های بیمار بود،
+
+195
+00:09:40,630 --> 00:09:44,156
+a process that took about
+پروسه‌ای که حدود دو هفته
+two weeks to reach the CDC.
+طول می‌کشید تا به دست مرکز کنترل بیماری‌ها برسد.
+
+196
+00:09:44,156 --> 00:09:46,249
+So the researchers turned it around.
+بنابراین محققان آن [پروسه] را برعکس کردند.
+
+197
+00:09:46,249 --> 00:09:49,391
+They asked themselves if they
+از خودشان پرسیدند که آیا می‌توانند
+could predict a flu outbreak
+یک شیوع آنفولانزا را به صورت
+
+198
+00:09:49,391 --> 00:09:53,674
+in real time simply using
+به‌هنگام فقط با استفاده از
+data from online searches.
+داده‌های جستجو‌های آنلاین پیش بینی کنند.
+
+199
+00:09:53,674 --> 00:09:56,245
+So they set out to do the near impossible,
+بدین ترتیب آن‌ها تصمیم به انجام [کاری] تقریباً ناممکن گرفتند.
+
+200
+00:09:56,245 --> 00:09:59,002
+searching the searches, billions of them,
+جستجوی جستجوها، میلیاردها از آن‌ها،
+
+201
+00:09:59,002 --> 00:10:01,815
+spanning five years to see if user queries
+دربرگیرنده‌ی [داده‌های] پنج سال تا ببینند آیا کوئری کاربران
+
+202
+00:10:01,815 --> 00:10:04,086
+could tell them something.
+می‌تواند چیزی به آن‌ها بگوید یا نه.
+
+203
+00:10:05,294 --> 00:10:06,930
+- When we do searches on Google,
+- وقتی ما روی گوگل جستجو می‌کنیم،
+
+204
+00:10:06,930 --> 00:10:08,365
+we all think of it as a one-way street,
+همگی‌مون بهش به چشم یه خیابون یه‌طرفه نگاه می‌کنیم،
+
+205
+00:10:08,365 --> 00:10:10,620
+that we're going into Google
+این که ما می‌ریم توی گوگل
+and extracting information
+و از گول اطلاعات
+
+206
+00:10:10,620 --> 00:10:12,348
+from Google, but one of
+استخراج می‌کنیم، اما یکی از
+the things we don't really
+چیزایی که ما واقعاً بهش
+
+207
+00:10:12,348 --> 00:10:14,064
+think about very much is
+زیاد فکر نمی‌کنیم اینه که
+we're actually contributing
+ما در واقع داریم
+
+208
+00:10:14,064 --> 00:10:16,703
+information back simply
+به سادگی با همون جستجو
+by doing the search.
+بهش (به عنوان کمک) اطلاعات می‌دیم.
+
+209
+00:10:16,703 --> 00:10:19,096
+- [Voiceover] And that's where
+- و این همان جایی است که
+the breakthrough occurred.
+پیشرفت غیرمنتظره رخ داد.
+
+210
+00:10:19,096 --> 00:10:21,361
+In looking at all the data,
+با نگاه کردن به همه‌ی داده‌ها،
+they saw that not only
+آنان دیدند که نه تنها
+
+211
+00:10:21,361 --> 00:10:23,953
+did the number of flu-related
+تعداد جستجو‌های مرتبط با
+searches correlate
+آنفولانزا، با
+
+212
+00:10:23,953 --> 00:10:25,729
+with the people who had the flu,
+[تعداد] افرادی که آنفولانزا داشتند همبستگی دارد،
+
+213
+00:10:25,729 --> 00:10:27,865
+but they also could
+بلکه توانسته بودند
+identify the search terms
+عبارات جستجو‌یی را تشخیص دهند
+
+214
+00:10:27,865 --> 00:10:31,018
+that could let them accurately
+که به آنان اجاره می‌داد
+predict flu outbreaks
+به طور دقیق شیوع آنفولانزا را
+
+215
+00:10:31,018 --> 00:10:34,320
+up to two weeks before the CDC.
+تا دو هفته زودتر از مرکز کنترل بیماری‌ها پیش‌بینی کنند.‌
+
+216
+00:10:34,320 --> 00:10:36,503
+- The CDC system takes about a week or two
+- سیستم مرکز کنترل بیماری‌ها حدود یکی دو هفته
+
+217
+00:10:36,503 --> 00:10:39,284
+for the numbers to sort of fully flow in.
+برای اعداد لازم داره تا یه جورایی کاملاً درونش سرازیر بشن.
+
+218
+00:10:39,284 --> 00:10:41,548
+What Google could do is
+کاری که گوگل می‌تونست بکنه این
+to say based on our model,
+بود که بر اساس مدل ما، این طوری بگم،
+
+219
+00:10:41,548 --> 00:10:43,266
+we'll have it on the spot.
+ما بلافاصله داشتیمش.
+
+220
+00:10:43,266 --> 00:10:45,903
+We'll just run the algorithm
+ما فقط الگریتم رو اجرا می‌کردیم
+
+221
+00:10:45,903 --> 00:10:48,263
+based on how people are
+بر اساس این که مردم الآن داشتن
+searching right now.
+چه طوری جستجو می‌کردن.
+
+222
+00:10:48,263 --> 00:10:49,477
+- And now we have, for the first time,
+- و حالا ما، برای اولین بار،
+
+223
+00:10:49,477 --> 00:10:52,375
+this real-time feedback
+این حلقه‌ی تکرار بازخورد
+loop where we can see
+به‌هنگام رو داریم که می‌تونیم
+
+224
+00:10:52,375 --> 00:10:55,427
+in real time what's going
+به صورت به‌هنگام ببینیم چه اتفاقی
+on and respond to it.
+داره می‌افته و بهش پاسخ بدیم.
+
+225
+00:10:56,063 --> 00:10:57,777
+- Now there is a flip side to this though
+- باید توجه داشت که یه روی ناخواسته‌ی دیگه هم برای این [قضیه] وجود داره
+
+226
+00:10:57,777 --> 00:11:00,262
+and that is there was a
+و اون اینه که یه ماجرای
+big story this year that
+بزرگ امسال وجود داشت
+
+227
+00:11:00,262 --> 00:11:03,309
+there was a lot of media attention about
+که توجه رسانه‌ای خیلی زیادی به
+
+228
+00:11:03,309 --> 00:11:05,668
+what an intense flu season this was.
+این که چه فصل آنفولانزایی شدیدی در راهه وجود داشت.
+
+229
+00:11:05,668 --> 00:11:06,579
+And so what did that do?
+و خوب اون چی کار کرد؟
+
+230
+00:11:06,579 --> 00:11:08,647
+That drove up search.
+اون جستجوها رو بالا برد.
+
+231
+00:11:08,647 --> 00:11:10,199
+That drove people who were more interested
+مردمی که بیشتر علاقه‌مند به
+
+232
+00:11:10,199 --> 00:11:11,625
+in what's going on with this flu
+ماجرای این آنفولانزا بودن رو تحریک کرد
+
+233
+00:11:11,625 --> 00:11:15,068
+or might have made more
+یا شاید مردم بیشتری رو وادار
+people think I must have it
+کرد که فکر کنن من حتماً دارمش
+
+234
+00:11:15,068 --> 00:11:18,591
+and so they were off,
+و بنابراین دیگه خوب نبودن،
+they got it way wrong.
+به کلی اشتباه فهمیدنش.
+
+235
+00:11:19,599 --> 00:11:22,029
+- So you know, one way
+- خوب می‌دونین دیگه، یه راه
+to think about big data
+برای فکر کردن به کلان داده
+
+236
+00:11:22,029 --> 00:11:24,423
+and all of the computational tools
+و تمام ابزارای محاسباتی که
+
+237
+00:11:24,423 --> 00:11:26,770
+that we wrap around that big data
+ما اون کلان داده رو باهاش محاصره می‌کنیم
+
+238
+00:11:26,770 --> 00:11:29,948
+to let us discover patterns
+تا بذارن الگوهایی که توی داده هستن
+that are in the data
+رو کشف کنیم
+
+239
+00:11:29,948 --> 00:11:34,447
+is when we point all that
+وقتی هست که ما تمام این
+machinery at ourselves.
+دم و دستگاه‌ها رو سمت خودمون نشونه بگیریم.
+
+240
+00:11:36,671 --> 00:11:38,808
+- [Voiceover] At MTI, Deb
+- در MIT ، دب
+Roy and his colleagues
+روی و همکارانش
+
+241
+00:11:38,808 --> 00:11:40,490
+wanted to see if they could understand
+می‌خواستند ببینند ‌‌‌آیا می‌توانند بفهمند
+
+242
+00:11:40,490 --> 00:11:42,618
+how children acquire language.
+که کودکان چگونه زبان می‌آمورند یا نه.
+
+243
+00:11:44,061 --> 00:11:46,021
+- And we realize that no one really knew
+- و [یهو] می‌فهمیم که هیچ کس واقعاً نمی‌دونست
+
+244
+00:11:46,021 --> 00:11:48,622
+for a simple reason, there was no data.
+به یه دلیل ساده، داده‌ای وجود نداشت.
+
+245
+00:11:48,622 --> 00:11:50,211
+- [Voiceover] After he and his wife Rupal
+- پس از این که او و همسرش روپال
+
+246
+00:11:50,211 --> 00:11:52,732
+brought their newborn son
+پسر تازه متولد شده‌ی خود را
+home from the hospital,
+از بیمارستان به خانه آوردند،
+
+247
+00:11:52,732 --> 00:11:55,208
+they did what every
+کاری را که هر سرپرست عادی
+normal parent would do,
+انجام می‌دهد ، کردند
+
+248
+00:11:55,208 --> 00:11:57,780
+mount a camera in the ceiling
+یک دوربین در سقف هر اتاق
+of each room in their home
+در خانه‌شان قرار دادند
+
+249
+00:11:57,780 --> 00:12:01,159
+and record every moment of
+و همه‌ی لحظات زندگی‌شان را
+their lives for two years,
+به مدت دو سال ظبط کردند،
+
+250
+00:12:01,159 --> 00:12:04,363
+a mere 200 gigabytes of
+۲۰۰ گیگابایت از
+data recorded every day.
+داده که هر روز ظبط می‌شد.
+
+251
+00:12:07,417 --> 00:12:09,600
+- [Deb] We ended up
+- کارمون به نوشتاری کردن
+transcribing somewhere between
+چیزی بین
+
+252
+00:12:09,600 --> 00:12:11,913
+eight and nine million words of speech.
+هشت تا نه میلیون کلمه گفتاری ختم شد.
+
+253
+00:12:11,913 --> 00:12:14,179
+- [Voiceover] Ga ga ga.
+
+254
+00:12:14,179 --> 00:12:17,692
+- And as soon as we had that,
+- به محض این که اون رو ‌می‌داشتیم،
+we could go and identify
+می‌تونستیم بریم و
+
+255
+00:12:17,692 --> 00:12:22,485
+the exact moment where my
+لحظه‌ی دقیقی که پسرم
+son first said a new word.
+برای اولین بار یه کلمه‌ی جدید رو می‌گفت رو مشخص کنیم.
+
+256
+00:12:24,371 --> 00:12:26,677
+- [Deb] We started calling them births.
+- ما بهشون می‌گفتیم تولد‌ها.
+
+257
+00:12:29,520 --> 00:12:31,576
+- We took this idea of a
+- ما ایده‌ی تولد کلمه رو گرفتیم
+word birth and we started
+و شروع به فکر کردن به این
+
+258
+00:12:31,576 --> 00:12:34,858
+thinking about why don't
+کردیم که چرا توی زمان
+we trace back in time
+به طور برعکس ردگیری نکنیم
+
+259
+00:12:34,858 --> 00:12:37,827
+and look at the gestation
+و به دوران جنینی اون
+period for that word.
+کلمه نگاه نکنیم.
+
+260
+00:12:39,596 --> 00:12:42,107
+One example of this was water.
+یه مثال ازش ، آب بود.
+
+261
+00:12:42,107 --> 00:12:46,777
+So we looked at every time
+بنابراین ما به هر زمانی که
+my son heard the word water,
+پسرم کلمه‌ی آب رو شنیده بود نگاه کردیم
+
+262
+00:12:46,777 --> 00:12:50,176
+what was happening, where
+[که] چه اتفاقی می‌افتاده، کجای
+in the house were they,
+خونه بودن،
+
+263
+00:12:50,176 --> 00:12:51,846
+how were they moving about
+چه طوری به اطراف حرکت می‌کردن
+
+264
+00:12:51,846 --> 00:12:55,070
+and using that visual information
+و برای به تصویر کشیدن چیزی در مورد
+
+265
+00:12:55,070 --> 00:12:57,511
+to capture something about the context
+زمینه‌‌ای که کلمات توی اون به کار می‌رفتن،
+
+266
+00:12:57,511 --> 00:13:00,324
+within which the words are used.
+با استفاده از اون اطلاعات مصور.
+
+267
+00:13:00,324 --> 00:13:02,007
+We call them wordscapes.
+ما بهشون ‌کلمات در رو می‌گفتیم.
+
+268
+00:13:02,007 --> 00:13:03,430
+Then we could ask the question
+بعد می‌تونستیم این سؤال رو بپرسیم که
+
+269
+00:13:03,430 --> 00:13:06,618
+how does the wordscape
+کلمات در رو چه طور با
+associated with a word
+یه کلمه مرتبط می‌شدن
+
+270
+00:13:06,618 --> 00:13:10,678
+predict when my son will
+تا پیش بینی کنیم کی پسرم
+actually start using that word?
+واقعاً شروع به استفاده از اون کلمه خواهد کرد؟
+
+271
+00:13:10,678 --> 00:13:12,911
+- [Voiceover] What they
+- چیزی که آنان
+learned from watching Deb's son
+از مشاهده‌ی پسر دب فرا گرفتند
+
+272
+00:13:12,911 --> 00:13:17,061
+was that the texture of the
+این بود که بافت کلمات در رو
+wordscapes had predictive power.
+قدرت پیش‌گویانه داشتند.
+
+273
+00:13:17,061 --> 00:13:19,239
+If most of the previous
+اگر اکثر تحقیقات پیشین
+research had indicated
+مشخص کرده بودند
+
+274
+00:13:19,239 --> 00:13:22,649
+that the way language was
+که نحوه‌‌ای که زبان [به آن وسیله]
+learned was through repetition,
+آموخته می‌شد از طریق تکرار بوده است
+
+275
+00:13:22,649 --> 00:13:24,659
+then this analysis of the
+آن گاه این تحلیل از داده‌ها
+data showed that it wasn't
+نشان می‌داد که در واقع
+
+276
+00:13:24,659 --> 00:13:29,061
+actually repetition that
+تکرار نبوده است که
+generated learning, but context.
+مولد یادگیری بوده، بلکه زمینه [مولد یادگیری] است.
+
+277
+00:13:29,061 --> 00:13:31,164
+Words with more distinct wordscapes,
+کلمات با کلمه در روی بیشتر
+
+278
+00:13:31,164 --> 00:13:34,176
+that is words heard in
+که کلماتی هستن که
+many varied locations,
+در مکان‌های متفاوت زیادی شنیده می شن،
+
+279
+00:13:34,176 --> 00:13:36,063
+would be learned first.
+اول [از همه] یاد گرفته می‌شن.
+
+280
+00:13:36,063 --> 00:13:37,992
+- Not only is that true,
+- نه تنها این درسته،
+
+281
+00:13:37,992 --> 00:13:40,935
+but the wordscapes are far more predictive
+بلکه کلمه‌های در رو خیلی بیشتر
+
+282
+00:13:40,935 --> 00:13:42,477
+of when a word will be learned
+در مورد زمانی که یه کلمه فرا گرفته خواهد شد
+
+283
+00:13:42,477 --> 00:13:45,384
+than the frequency, the number
+نسبت به تعداد تکرار، تعداد
+of times it's actually heard.
+دفعاتی که در واقع شنیده می‌شه پیشگویانه هستن.
+
+284
+00:13:45,384 --> 00:13:47,684
+It's like we're building
+مثل اینه که داریم یه
+a new kind of instrument,
+گونه‌ی جدید از وسایل رو می‌سازیم
+
+285
+00:13:47,684 --> 00:13:49,658
+like we're building a microscope
+انگار که داریم میکروسکوپ می‌سازیم
+
+286
+00:13:49,658 --> 00:13:53,102
+and we're able to examine
+و می‌تونیم چیزی که اطرافمون
+something that is around us,
+هست رو بررسی کنیم،
+
+287
+00:13:53,102 --> 00:13:56,502
+but it has a structure
+اما ساختار و
+and patterns and beauty
+الگوها و زیبایی داره
+
+288
+00:13:56,502 --> 00:13:59,852
+that are invisible without
+که بدون وسیله‌ی مناسب
+the right instruments
+نادیدنی هستن.
+
+289
+00:13:59,852 --> 00:14:03,250
+and all of this data is opening up
+و همه‌ی این داده‌ها فرصت‌های جدیدی رو
+
+290
+00:14:03,250 --> 00:14:07,452
+to our ability to
+به روی توانایی ما
+perceive things around us.
+برای مشاهده‌ی چیز‌های اطرافمون باز می‌کنن.
+
+291
+00:14:08,038 --> 00:14:10,334
+(giggling)
+
+292
+00:14:10,334 --> 00:14:11,762
+- He's walking.
+- داره راه می‌ره.
+
+293
+00:14:11,762 --> 00:14:16,791
+(beeping)
+
+294
+00:14:18,477 --> 00:14:20,154
+- A lot of people don't realize
+خیلی از مردم نمی‌فهمن
+
+295
+00:14:20,154 --> 00:14:22,544
+that when a baby is born premature,
+که وقتی یه بچه پیش از موعد به دنیا میاد،
+
+296
+00:14:22,544 --> 00:14:25,636
+it can develop infection in the hospital
+می‌تونه توی بیمارستان موجب ایجاد و رشد عفونت بشه
+
+297
+00:14:25,636 --> 00:14:27,648
+and it can kill them.
+و می‌تونه اونا رو بکشه.
+
+298
+00:14:30,160 --> 00:14:34,433
+In our research, we started
+توی تحقیقاتمون، ما صرفاً شروع به
+to just look at infection.
+بررسی کردن عفونت کردیم.
+
+299
+00:14:34,433 --> 00:14:37,523
+By the time the baby is
+تا [قبل از] زمانی که بچه به طور
+physically showing signs
+فیزیکی علائم داشتن عفونت
+
+300
+00:14:37,523 --> 00:14:41,631
+of having infection, they
+رو نشون بده، خیلی
+are very, very unwell.
+خیلی بدحاله.
+
+301
+00:14:42,218 --> 00:14:45,366
+So the very first time
+پس اولین باری که
+that I went into a neonatal
+من به واحد مراقبت‌های ویژه
+
+302
+00:14:45,366 --> 00:14:47,545
+intensive care unit, I was amazed
+نوزادان رفتم، شگفت زده بودم
+
+303
+00:14:47,545 --> 00:14:50,342
+by the sights, the sound, the smell,
+به خاطر چیزایی که می‌دیدم، صداها، بو،
+
+304
+00:14:50,342 --> 00:14:52,183
+just the whole environment,
+و [در یک کلام] تمام محیط،
+
+305
+00:14:52,183 --> 00:14:55,076
+but mainly for me, the data.
+اما بیش از هر چیز برای من، به خاطر داده.
+
+306
+00:14:56,120 --> 00:14:59,977
+What shocked me was the
+چیزی که شوکه‌ام کرد مقدار
+amount of data lost.
+داده‌ای بود که از دست می‌رفت.
+
+307
+00:14:59,977 --> 00:15:01,645
+They showed me the paper chart
+بهم جدول کاغذی رو
+
+308
+00:15:01,645 --> 00:15:04,325
+that the information's recorded onto.
+که اطلاعات توش ثبت می‌شد نشون دادن.
+
+309
+00:15:04,325 --> 00:15:07,460
+One number every hour for
+هر ساعت یه عدد برای
+the baby's heart rate,
+نرخ تپش قلب بچه،
+
+310
+00:15:07,460 --> 00:15:10,221
+the respiration, the blood oxygen.
+تنفس، اکسیژن خون.
+
+311
+00:15:10,221 --> 00:15:13,543
+Now in that time, the
+حالا در اون لحظه، قلب
+baby's heart has beaten
+بچه بیش از ۷۰۰۰ بار
+
+312
+00:15:13,543 --> 00:15:15,665
+more than 7,000 times,
+تپش کرده بود،
+
+313
+00:15:15,665 --> 00:15:18,147
+they breathe more than 2,000 times,
+بیش از ۲۰۰۰ بار تنفس کرده بود،
+
+314
+00:15:18,147 --> 00:15:21,329
+and the monitor showing
+و مانیتوری که سطح اکسیژن خون
+the blood oxygen level
+رو نشون می‌داد
+
+315
+00:15:21,329 --> 00:15:24,963
+has showed that more than three
+بیش از سه هزار و پانصد بار
+and a half thousand times.
+اون [عدد] رو نشون داده بود.
+
+316
+00:15:24,963 --> 00:15:26,482
+I said, "Well, where's all the data going
+من گفتم، خوب، این همه داده که توی
+
+317
+00:15:26,482 --> 00:15:27,847
+"that's in those machines?"
+این دستگاه‌هاست کجا می‌ره؟
+
+318
+00:15:27,847 --> 00:15:30,784
+And they said, "Oh it
+و اونا گفتن، اوه
+scrolls out of the memory."
+از حافظه [وقتی پر شد] بیرون می‌ره.
+
+319
+00:15:30,784 --> 00:15:35,803
+So we have an enormous
+پس ما مقدار عظیمی
+amount of data lost.
+از داده‌ی از دست رفته داشتیم.
+
+320
+00:15:36,145 --> 00:15:38,196
+So we're trying to gather that information
+بنابراین سعی داریم تا اون اطلاعات رو جمع
+
+321
+00:15:38,196 --> 00:15:40,422
+and use it over a longer time
+و ازش در طی زمانی طولانی تر
+
+322
+00:15:40,422 --> 00:15:42,927
+in much more complex ways than before
+به طرق خیلی پیچیده‌تری از قبل استفاده کنیم
+
+323
+00:15:42,927 --> 00:15:46,411
+and we try and write computing code
+و تلاش می‌کنیم و کد‌های کامپوتری می‌نویسیم
+
+324
+00:15:46,411 --> 00:15:49,000
+to look at the trends in the monitors
+تا ترند‌های داخل مانیتور‌ها
+
+325
+00:15:49,000 --> 00:15:50,386
+and the trends in the data
+و ترند‌های داخل داده‌ها رو بررسی کنیم
+
+326
+00:15:50,386 --> 00:15:54,443
+to see how that can tell us
+تا ببینیم چه طور می‌تونن به ما
+when a baby's becoming unwell.
+بگن که چه موقع یه بچه بدحال می‌شه.
+
+327
+00:15:54,443 --> 00:15:57,462
+- [Voiceover] So Dr. McGregor
+- بنابراین دکتر مک‌گرگر
+did what data scientists do,
+کاری را کرد که عالمان داده می‌کنند
+
+328
+00:15:57,462 --> 00:15:59,338
+she looked for the invisible.
+او به دنبال [آن چیز] نادیدنی گشت.
+
+329
+00:15:59,338 --> 00:16:01,051
+She and her team analyzed the data
+او و تیمش داده‌های
+
+330
+00:16:01,051 --> 00:16:03,953
+from thousands of heart beats
+هزاران تپش قلب را تحلیل کردند
+and what they discovered
+و چیزی که کشف کردند
+
+331
+00:16:03,953 --> 00:16:06,041
+were minute fluctuations
+افت و خیز های بسیار دقیقی
+that could predict
+بود که می‌توانستند
+
+332
+00:16:06,041 --> 00:16:08,460
+the onset of life-threatening infections
+شروع عفونت‌های مرگ‌‌‌آور را
+
+333
+00:16:08,460 --> 00:16:11,280
+long before physical symptoms appeared.
+بسیار پیش تر از ظهور علائم فیزیکی پیش‌بینی کنند.
+
+334
+00:16:11,280 --> 00:16:14,916
+- When the body first starts
+-  وقتی که بدن اول شروع به
+dealing with infection,
+مقابله با عفونت می‌کنه
+
+335
+00:16:14,916 --> 00:16:16,674
+there are these subtle changes
+یه تغییرات ریز و ظریفی به وجود میاد
+
+336
+00:16:16,674 --> 00:16:19,819
+and that's why we have to
+و این همون دلیلی هست که ما باید
+watch every single heart beat.
+مراقب تک تک تپش‌های قلب باشیم.
+
+337
+00:16:19,819 --> 00:16:22,115
+And what we're finding is
+و چیزی که ما پیدا می‌کنیم اینه
+that when you're starting
+که وقتی شما شروع می‌کنید
+
+338
+00:16:22,115 --> 00:16:25,293
+to become unwell, the
+به بدحال شدن، توانایی
+heart's ability to react,
+قلب برای واکنش نشون دادن،
+
+339
+00:16:25,293 --> 00:16:29,231
+to speed up and slow down, gets subdued.
+برای سرعت گرفتن و کند شدن، محدود می‌شه.
+
+340
+00:16:31,449 --> 00:16:34,338
+The human body has always been
+بدن انسان همیشه داشته
+
+341
+00:16:34,338 --> 00:16:36,750
+exhibiting these certain things.
+این چیزای مشخص رو به معرض نمایش می‌ذاشته.
+
+342
+00:16:36,750 --> 00:16:40,770
+The difference is we've started to gather
+تفاوتش اینه که حالا ما شروع به جمع‌آوری
+
+343
+00:16:40,770 --> 00:16:43,248
+more information about the body now
+اطلاعات بیشتری درباره‌ی بدن کردیم
+
+344
+00:16:43,248 --> 00:16:47,302
+so that we can build this virtual person.
+تا بتونیم به فرد مجازی بسازیم.
+
+345
+00:16:47,302 --> 00:16:50,866
+The better we have the
+هر چه تمثال مجازی بهتری
+virtual representation,
+داشته باشیم
+
+346
+00:16:50,866 --> 00:16:53,326
+then the better we can start to understand
+بنابراین بهتر هم می‌تونیم شروع به فهمیدن
+
+347
+00:16:53,326 --> 00:16:56,015
+what will happen to them in the future.
+این کنیم که در آینده چه اتفاقی براشون خواهد افتاد.
+
+348
+00:16:56,015 --> 00:16:59,939
+Back in 1999 I was pregnant
+سال ۱۹۹۹ من اولین بچه‌ام
+with my first child.
+رو حامله بودم.
+
+349
+00:16:59,939 --> 00:17:03,541
+She was born premature
+اون پیش از موعد به دنیا اومد
+and she passed away.
+و از دنیا رفت.
+
+350
+00:17:04,198 --> 00:17:07,516
+There was no other viable outcome for her.
+سرانجام دست یافتنی دیگه‌ای برای اون وجود نداشت.
+
+351
+00:17:07,516 --> 00:17:11,987
+But there are so many others
+اما خیلی‌های دیگه هستن که
+who have just been born early
+زودتر به دنیا اومدن
+
+352
+00:17:11,987 --> 00:17:16,637
+and they just need that
+و به این فرصت برای رشد
+opportunity to grow and develop.
+و پرورش نیاز دارن.
+
+353
+00:17:17,598 --> 00:17:21,442
+We want to let the
+ما می‌خوایم به کامپوتر‌ها
+computers monitor a baby
+اجازه بدیم تا یه بچه رو
+
+354
+00:17:21,442 --> 00:17:25,332
+as it breathes, as its
+وقتی که نفس می‌کشه، وقتی که
+heart beats, as it sleeps,
+قلبش می‌تپه، وقتی که می‌خوابه تحت نظر بگیرن
+
+355
+00:17:25,332 --> 00:17:30,201
+so that these algorithms are
+بنابراین این الگوریتم‌ها نظاره‌گر
+watching for certain behaviors
+رفتار‌های خاصی خواهند بود
+
+356
+00:17:30,201 --> 00:17:34,219
+and if something starts
+و اگه چیزی برای بچه شروع به
+to go wrong for that baby,
+اشتباه پیش رفتن کنه،
+
+357
+00:17:34,219 --> 00:17:38,027
+we have the ability to intervene.
+ما توانایی مداخله رو داریم.
+
+358
+00:17:40,120 --> 00:17:42,797
+If we can just save one life,
+اگه بتونیم تنها یه زندگی رو نجات بدیم،
+
+359
+00:17:42,797 --> 00:17:47,068
+then for me personally,
+اون وقت شخصاً برای من،
+it's already worthwhile.
+ارزشش رو داشته.
+
+360
+00:17:49,741 --> 00:17:53,887
+- Everybody understands
+- همه می‌دونن چه [زحمتی]
+what it takes to digitize
+لازمه تا یه
+
+361
+00:17:53,887 --> 00:17:58,732
+photography, a movie,
+عکس، یه فیلم،
+a magazine, newspaper,
+یه مجله، روزنامه، دیجیتالی بشه
+
+362
+00:17:58,732 --> 00:18:01,621
+but they haven't yet grasped what it means
+اما هنوز هضم نکردن که دیجیتالی کردن
+
+363
+00:18:01,621 --> 00:18:05,809
+to digitize the medical
+ماهیت پزشکی
+essence of a human being.
+یک انسان چه معنایی داره.
+
+364
+00:18:07,400 --> 00:18:11,336
+Everything about us now
+در حال حاضر هر چیزی در مورد ما که
+that's medically relevant
+از لحاظ پزشکی مرتبطه
+
+365
+00:18:11,336 --> 00:18:13,093
+can be captured.
+می‌تونه ثبت بشه.
+
+366
+00:18:13,093 --> 00:18:16,505
+With sensors, we can
+با حسگر‌ها، ما می‌تونیم
+digitize all of our metrics
+تمام معیار‌های اندازه‌گیری‌مون رو دیجیتالی کنیم
+
+367
+00:18:16,505 --> 00:18:19,659
+and with imaging, we
+و با عکس برداری، می‌تونیم
+can digitize our anatomy
+آناتومی‌مون رو دیجیتالی کنیم
+
+368
+00:18:19,659 --> 00:18:21,244
+and with our sequence of our DNA,
+و با دنباله ی دی ان ای مون،
+
+369
+00:18:21,244 --> 00:18:24,008
+we can digitize our biology.
+می‌تونیم بیولوژی مون رو دیجیتالی کنیم.
+
+370
+00:18:25,342 --> 00:18:27,717
+- The data story in the
+- داستان داده‌ای داخل
+genome is the fact that
+ژنوم [گویای] این حقیقته که
+
+371
+00:18:27,717 --> 00:18:30,825
+we have six billion data
+ما شش میلیارد نقطه‌ی داده‌ای
+points sitting in our genomes
+سوار بر ژنوم‌هامون داریم
+
+372
+00:18:30,825 --> 00:18:33,913
+that we've never had access to before.
+که تا پیش از این هرگز بهشون دسترسی نداشتیم.
+
+373
+00:18:35,875 --> 00:18:37,435
+When you sequence a person's genome,
+وقتی به ژنوم یک فرد ترتیب می‌دید،
+
+374
+00:18:37,435 --> 00:18:39,810
+there are known differences
+تفاوت‌های شناخته شده‌ای
+in the human genome
+در ژنوم انسان وجود داره
+
+375
+00:18:39,810 --> 00:18:42,407
+that can predict a risk for a disease,
+که می‌تونه ریسک ابتلا به یه بیماری
+
+376
+00:18:42,407 --> 00:18:44,328
+or that you're a carrier for a disease,
+یا این که [آیا] شما ناقل یه بیماری هستید،
+
+377
+00:18:44,328 --> 00:18:46,342
+or that you have a certain ancestry.
+یا یک نیای خاصی رو دارید پیش بینی کنه.
+
+378
+00:18:46,342 --> 00:18:48,554
+There's a lot of information
+یه عالمه داده توی
+packed in the genome
+ژنوم متراکم شده
+
+379
+00:18:48,554 --> 00:18:51,319
+that we're starting to
+که داریم شروع یه
+learn more and more about.
+یادگیری بیشتر و بیشتر دربارشون می‌کنیم.
+
+380
+00:18:53,537 --> 00:18:56,716
+Getting your own personal
+گرفتن اطلاعات شخصی‌تون
+information through your genome
+از طریق ژنوم
+
+381
+00:18:56,716 --> 00:18:58,764
+would not have been possible
+حتی ۱۰ پیش هم به خاطر هزینه‌اش
+
+382
+00:18:58,764 --> 00:19:01,176
+even 10 years ago because of cost.
+نمی‌تونست ممکن باشه.
+
+383
+00:19:01,176 --> 00:19:03,153
+The technologies that have enabled this
+فناوری‌هایی که این امکان رو ساخته‌ان
+
+384
+00:19:03,153 --> 00:19:05,410
+have dropped precipitously
+به شدت کاهش قیمت داشتن
+and now we're able to
+و حالا ما می‌تونیم
+
+385
+00:19:05,410 --> 00:19:10,254
+get a really good look at
+بررسی واقعاً خوبی
+your genome for under $500.
+از ژنوم‌تون با هزینه ی زیر ۵۰۰ دلار داشته باشیم.
+
+386
+00:19:10,254 --> 00:19:13,770
+- And when it becomes
+- و وقتی ۱۰۰ یا ۱۰ دلار
+100 bucks or 10 bucks,
+بشه،
+
+387
+00:19:13,770 --> 00:19:17,421
+we're going to have
+ما ژنوم همه رو به عنوان داده
+everyone's genome as data.
+خواهیم داشت.
+
+388
+00:19:19,918 --> 00:19:21,594
+- The results came back on Tuesday,
+- جواب‌ها سه‌شنبه اومدن،
+
+389
+00:19:21,594 --> 00:19:23,982
+it was October 2nd, 1996.
+۲ اکتبر ۱۹۹۶ بود.
+
+390
+00:19:23,982 --> 00:19:26,915
+I was diagnosed that
+اون روز من مبتلا به
+day with breast cancer.
+سرطان سینه تشخیص داده شدم.
+
+391
+00:19:26,915 --> 00:19:29,383
+A year out of treatment, I
+یه سال بعد از درمان، یه غده‌ی
+found a lump on the other breast
+دیگه روی سینه‌ی دیگه‌ام
+
+392
+00:19:29,383 --> 00:19:32,433
+in the exact same position and I went in
+دقیقاً در همون موضع پیدا کردم و رفتم
+
+393
+00:19:32,433 --> 00:19:35,527
+and they told me that I
+و اونا بهم گفتن که
+had breast cancer again.
+دوباره سرطان سینه گرفتم.
+
+394
+00:19:36,659 --> 00:19:39,290
+Sedona's known about me being
+سدونا در موردآزمایش شدن من برای
+tested for the BRCA gene,
+ژن ب.ر.ک.ا می‌دونست
+
+395
+00:19:39,290 --> 00:19:40,829
+she's known my sister has tested,
+می‌دونست که خواهرم آزمایش داده،
+
+396
+00:19:40,829 --> 00:19:42,225
+she knows my other sister tested
+می‌دونه که اون یکی خواهرم هم آزمایش داده
+
+397
+00:19:42,225 --> 00:19:44,485
+and was negative for the gene mutation
+و نتیجه‌ی نقص ژنش منفی بود
+
+398
+00:19:44,485 --> 00:19:47,310
+and so she actually told me,
+و بنابراین به من گفت،
+"When I'm 18, I want to test,
+وقتی ۱۸ سالم شد، می‌خوام آزمایش بدم
+
+399
+00:19:47,310 --> 00:19:49,954
+"you know, and see if I have
+می‌دونی دیگه، و ببینم این نقص ژنتیکی
+this gene mutation or not."
+رو دارم یا نه.
+
+400
+00:19:49,954 --> 00:19:54,507
+I am gonna be completely distraught
+من به شدن ناراحت می‌شم
+
+401
+00:19:54,507 --> 00:19:57,696
+if I hand this gene down to my kid.
+اگه این ژن رو به فرزندم منتقل کرده باشم.
+
+402
+00:19:57,696 --> 00:20:00,117
+- Do you know what your chances
+- می‌دونی احتمال داشتن این
+are of having the mutation
+نقص که مادرت داره
+
+403
+00:20:00,117 --> 00:20:01,282
+that your mom has?
+برات چنده؟
+
+404
+00:20:01,282 --> 00:20:02,421
+- I'd say 50/50.
+- گمونم ۵۰/۵۰
+
+405
+00:20:02,421 --> 00:20:04,180
+- You're exactly right.
+- دقیقاً درست گفتی.
+
+406
+00:20:04,180 --> 00:20:06,474
+BRCA2 is a gene that we all have,
+ب.ر.ک.ا ۲ ژنی هست که همه‌ی ما داریم،
+
+407
+00:20:06,474 --> 00:20:08,325
+it's called tumor suppressor gene,
+بهش می‌گن ژن سرکوب‌گر تومور،
+
+408
+00:20:08,325 --> 00:20:10,480
+but women, if you have
+اما توی زن‌ها، اگه نقصی توی
+a mutation in the gene
+ژن داشته باشی
+
+409
+00:20:10,480 --> 00:20:13,122
+it causes the gene not to
+باعص ژن اون طوری که باید
+function like it should.
+عمل نکنه.
+
+410
+00:20:13,122 --> 00:20:16,754
+So the risk mainly of
+بنابراین ریسک عمدتاً
+breast and ovarian cancer
+سینه و تخمدان
+
+411
+00:20:16,754 --> 00:20:19,443
+is a lot higher than in
+نسبت به جمعیت عادی
+the general population.
+خیلی بیشتر هست.
+
+412
+00:20:19,443 --> 00:20:21,947
+- An average woman would have a 12% risk
+- به طور متوسط یه زن ریسک ۱۲ درصدی
+
+413
+00:20:21,947 --> 00:20:23,588
+of getting breast cancer in a lifetime
+گرفتن سرطان سینه در طول زندگیش رو داره
+
+414
+00:20:23,588 --> 00:20:24,927
+and most women aren't going out there,
+و اکثر زن‌ها نمی‌رن اون بیرون،
+
+415
+00:20:24,927 --> 00:20:26,768
+getting preventive mastectomies,
+عمل برداشت سینه پیشگیرانه انجام بدن،
+
+416
+00:20:26,768 --> 00:20:28,985
+but when you're faced with an 87% risk
+اما وقتی با یه ریسک ۸۷ درصدی
+
+417
+00:20:28,985 --> 00:20:31,699
+of getting breast cancer in your lifetime,
+برای گرفتن سرطان سینه توی زندگیتون مواجه باشید
+
+418
+00:20:31,699 --> 00:20:35,883
+it kind of makes that a possible choice.
+یه جورایی اون رو یه گزینه‌ی ممکن می‌کنه.
+
+419
+00:20:38,719 --> 00:20:41,478
+- [Voiceover] You'll need
+- باید این دهان‌شویه رو
+to swish this mouth wash
+به مدت ۳۰ ثانیه
+
+420
+00:20:41,478 --> 00:20:43,452
+for 30 seconds.
+قرقره کنی.
+
+421
+00:20:44,120 --> 00:20:45,925
+- We are definitely moving into a world
+- ما قطعاً در حال حرکت به سمت دنیایی هستیم
+
+422
+00:20:45,925 --> 00:20:48,753
+where the patient or the person
+که در اون بیمار یا فرد
+is at the center of things
+در مرکز چیز هاست
+
+423
+00:20:48,753 --> 00:20:51,773
+and hopefully also at the controls.
+و همچنین ، امیدوارم، در کنترل [چیز‌ها].
+
+424
+00:20:52,396 --> 00:20:54,118
+People will have access to the data
+مردم به این داده‌ها که حاوی اطلاعات مفیدی
+
+425
+00:20:54,118 --> 00:20:58,667
+that is informative around
+پیرامون نوع بیماری هست که
+the type of disease they have
+بهش مبتلا هستن دسترسی خواهند داشت
+
+426
+00:20:58,667 --> 00:21:01,263
+and that data then can
+و اون داده می‌تونه خیلی بیشتر
+point much more directly
+به طور مستقیم به
+
+427
+00:21:01,263 --> 00:21:03,391
+to proper treatments,
+درمان‌های مناسب اشره کنه،
+
+428
+00:21:03,391 --> 00:21:05,067
+but the data can also say that a treatment
+اما داده‌ها همچنین می‌تونن بگن که یه درمان
+
+429
+00:21:05,067 --> 00:21:07,408
+works for a person or it
+برای یه فرد جواب می‌ده یا
+doesn't work for a person
+برای یه فرد جواب نمی‌ده
+
+430
+00:21:07,408 --> 00:21:09,117
+based on their genetic profile
+بر اساس پروفایل ژنتیکی اون فرد
+
+431
+00:21:09,117 --> 00:21:10,793
+and we're gonna start moving more and more
+و ما همین طور که بیشتر در مورد ژنوم
+
+432
+00:21:10,793 --> 00:21:12,971
+into this notion of personalized medicine
+و مطالعه‌ی ژن‌دارویی چیز یاد می گیریم
+
+433
+00:21:12,971 --> 00:21:14,516
+as we learn more about the genome
+داریم شروع به حرکت بیشتر و بیشتر
+
+434
+00:21:14,516 --> 00:21:16,691
+and the study of pharmacogenetics,
+به سمت مفهموم داروی شخصی‌سازی‌شده حرکت می‌کنیم
+
+435
+00:21:16,691 --> 00:21:20,498
+which is how do our genes
+که یعنی چه طور ژن‌های ما
+influence the drugs we take.
+روی دارویی که مصرف می‌کنیم تأثیر می‌ذارن.
+
+436
+00:21:20,498 --> 00:21:22,872
+Ultimately, instead of treating disease,
+در [کلام] آخر، به جای درمان بیماری،
+
+437
+00:21:22,872 --> 00:21:24,582
+is there data that could really help us
+آیا داده‌ای وجود داره که بتونه واقعاً بهمون کمک کنه
+
+438
+00:21:24,582 --> 00:21:28,144
+move away from contracting
+تا در وهله‌ی اول از گرفتن این بیماری‌ها
+these illnesses to begin with
+دور بشیم
+
+439
+00:21:28,144 --> 00:21:31,199
+and go more toward a preventive model?
+و به سمت مدلی پیشگیرانه حرکت کنیم؟
+
+440
+00:21:31,199 --> 00:21:35,709
+(mellow music)
+
+441
+00:21:35,709 --> 00:21:40,689
+آزمایش سدونا برای نقص ب.ر.ک.ا مثبت بود.
+- Now you can't talk about
+- شما نمی‌تونید در مورد اطلاعات
+information separate from health.
+به صورت جدا از سلامتی حرف بزنید.
+
+442
+00:21:40,689 --> 00:21:41,973
+How you feel is information,
+این که چه حالی دارید اطلاعاته،
+
+443
+00:21:41,973 --> 00:21:43,692
+how you respond to a drug is information,
+این که چه طور به یه دارو واکنش نشون می‌دید اطلاعاته،
+
+444
+00:21:43,692 --> 00:21:45,530
+your genetic code is information.
+کد ژنتیکی شما اطلاعاته.
+
+445
+00:21:45,530 --> 00:21:47,496
+What's really happening is
+چیزی که در واقع در حال رخ دادنه اینه که
+when we start collecting it,
+وقتی ما شروع به جمع‌‌آوری اون می‌کنیم،
+
+446
+00:21:47,496 --> 00:21:48,415
+we're going to start seeing it
+[به دنبالش] شروع به دیدن  اون
+
+447
+00:21:48,415 --> 00:21:50,462
+and we're going to start interpreting it.
+و شروع به تفسیر اون می‌کنیم.
+
+448
+00:21:51,307 --> 00:21:53,598
+We're beginning the age
+ما داریم عصر جمع‌‌‌‌آوری
+of collecting information
+اطلاعات از حسگر‌ها
+
+449
+00:21:53,598 --> 00:21:55,902
+from sensors that are cheap and ubiquitous
+که ارزون هستن و به وفور یافت می‌شن رو آغاز می‌کنیم
+
+450
+00:21:55,902 --> 00:21:58,021
+that we can process continuously
+که می‌تونیم به طور پیوسته اونا رو پردازش کنیم
+
+451
+00:21:58,021 --> 00:22:00,670
+and we can actually start knowing things.
+و می‌تونیم عملاً شروع به دونستن چیز‌ها کنیم.
+
+452
+00:22:00,670 --> 00:22:02,751
+- If we monitored our
+- اگه ما سلامتی‌مون رو
+health throughout the day,
+در طی روز ، به طور پیوسته
+
+453
+00:22:02,751 --> 00:22:06,254
+continuously every second,
+در هر ثانیه، تحت نظر می‌گرفتیم
+what would that really enable?
+این چه توانایی [به ما] می‌داد؟
+
+454
+00:22:06,254 --> 00:22:08,942
+- And there's now a lot
+- و در حال حاضر یه عالمه
+of really great technology
+فناوری فوق‌العاده
+
+455
+00:22:08,942 --> 00:22:12,653
+coming out around this sense
+پیرامون این تب و تاب
+of tracking and monitoring
+ردگیری و رصد کردن داره بیرون میاد
+
+456
+00:22:12,653 --> 00:22:15,585
+and we have all kinds of
+و ما همه نوع کمپانی حسگر و
+sensor companies and devices.
+وسایلی رو [که بخواید] داریم.
+
+457
+00:22:15,585 --> 00:22:17,390
+- We're actually collecting
+- ما در واقع داریم یه عالمه
+a lot of physiological
+اطلاعات فیزیلوژیکی
+
+458
+00:22:17,390 --> 00:22:19,799
+information, you know,
+جمع می‌کنیم، می‌دونین دیگه،
+heart rate, breathing,
+نرخ تپش قلب، تنفس،
+
+459
+00:22:19,799 --> 00:22:22,861
+in real-time, you know,
+به شکل به‌هنگام، می‌دونید،
+every minute, every second.
+هر دقیقه، هر ثانیه.
+
+460
+00:22:24,531 --> 00:22:27,032
+- [Linda] People wanting to
+- مردم می‌خوان
+measure their daily activities
+فعالیت‌های روزانه‌شون رو اندازه‌ بگیرن
+
+461
+00:22:27,032 --> 00:22:29,114
+and being able to track your own sleep,
+و بتونین خواب خودتون رو رصد کنید،
+
+462
+00:22:29,114 --> 00:22:32,129
+being able to watch and
+بتونید مصرف غذای خودتون رو
+monitor your own food uptake,
+تحت نظر بگیرید و رصد کنید،
+
+463
+00:22:32,129 --> 00:22:34,266
+being able to track your own movement.
+بتونید حرکت خودتون رو رصد کنید.
+
+464
+00:22:34,266 --> 00:22:35,720
+- It's almost like
+- تقریباً مثل
+looking down at our lives
+نگاه کردن به زندگیمون
+
+465
+00:22:35,720 --> 00:22:37,071
+from 30,000 feet.
+از ۳۰ هزار فیتی هست.
+
+466
+00:22:37,071 --> 00:22:38,826
+There's a company right now in Boston
+درست همین حالا یه کمپانی توی بوستون هست
+
+467
+00:22:38,826 --> 00:22:41,084
+that can actually predict that
+که عملاً می‌تونه دو روز قبل از
+you're going to get depressed
+این که افسرده بشید
+
+468
+00:22:41,084 --> 00:22:43,121
+two days before you get depressed
+پیش بینی کنه که قراره افسرده بشید
+
+469
+00:22:43,121 --> 00:22:44,588
+and the gentleman who created it said
+و آقایونی که درستش کردن گفتن
+
+470
+00:22:44,588 --> 00:22:46,564
+if you actually watch any one of us,
+اگه که هر یک از ما رو تحت نظر نظر بگیرید،
+
+471
+00:22:46,564 --> 00:22:49,776
+most people have a very
+اکثر آدما الگوی
+discernible pattern of behavior.
+رفتاری بسیار واضحی دارن.
+
+472
+00:22:49,776 --> 00:22:52,824
+And for the first week, our
+و برای اولین هفته، نرم‌افزار
+software basically determines
+ما در اصل مشخص می‌کنه
+
+473
+00:22:52,824 --> 00:22:54,581
+what your normal pattern is
+الگوی نرمال شما چی هست
+
+474
+00:22:54,581 --> 00:22:56,129
+and then two days before you're showing
+و بعد دو روز قبل از این که شما هرگونه
+
+475
+00:22:56,129 --> 00:22:58,305
+any outward signs of depression,
+علائم بیرونی افسردگی رو بروز بدید،
+
+476
+00:22:58,305 --> 00:23:00,188
+the amount of Tweets and
+مقدار توییت‌ها و
+emails that you're sending
+ایمیل‌هایی که می‌فرستید
+
+477
+00:23:00,188 --> 00:23:02,737
+go down, your radius of
+پایین میان، شعاع
+travel starts shrinking,
+جا به جاییتون شروع به کوچک شدن می کنه
+
+478
+00:23:02,737 --> 00:23:04,737
+the amount of time that
+مقدار زمانی که
+you spend at home goes up.
+توی خونه می‌گذرونید بالا می‌ره.
+
+479
+00:23:04,737 --> 00:23:07,740
+- You can look to see if how you exercise
+- می‌تونید ببینید که آیا چگونگی تمرین‌ها هاتون
+
+480
+00:23:07,740 --> 00:23:09,671
+changes your social behavior,
+رفتار اجتماعی‌تون رو تغییر می‌ده،
+
+481
+00:23:09,671 --> 00:23:11,767
+if what you eat changes how you sleep
+آیا چیزی که می‌خورید نحوه‌ی خوابتون رو تغییر می‌ده
+
+482
+00:23:11,767 --> 00:23:15,604
+and how that impacts your medical claims.
+و این چه طور روی مصرف داروهاتون تأثیر می‌ذاره.
+
+483
+00:23:15,604 --> 00:23:17,572
+- All kinds of data and information
+- یک دنیا نوع داده و اطلاعات
+
+484
+00:23:17,572 --> 00:23:20,667
+are sitting inside the
+درون دنیایی که شما هر روزه
+world you do every day.
+مشغولش هستید قرار داره.
+
+485
+00:23:20,667 --> 00:23:22,133
+- Now, with all these devices,
+- حالا، با همه‌ی این دستگاه‌ها،
+
+486
+00:23:22,133 --> 00:23:25,879
+we have real-time information,
+ما اطلاعات به‌هنگام ،
+real-time understanding.
+فهم به‌هنگام داریم.
+
+487
+00:23:25,879 --> 00:23:26,938
+- Now that might sound interesting,
+- باید توجه داشت که این ممکنه جالب به نظر برسه
+
+488
+00:23:26,938 --> 00:23:29,230
+might help you shed a few pounds,
+ممکنه بهتون کمک کنه یه چند پوندی لاغر بشید،
+
+489
+00:23:29,230 --> 00:23:30,870
+realize you're eating
+بفهمید که دارید زیادی
+too many potato chips
+چیپس سیب زمینی می خورید
+
+490
+00:23:30,870 --> 00:23:32,372
+and sitting around too much perhaps
+و شاید زیادی اون دور و بر می‌شینید
+
+491
+00:23:32,372 --> 00:23:34,629
+and that's useful to you individually,
+و این به شخصه برای شما مفیده،
+
+492
+00:23:34,629 --> 00:23:38,770
+but if hundreds of
+اما اگه صدها میلیون
+millions of people do that,
+آدم این کارو کنن،
+
+493
+00:23:38,770 --> 00:23:41,774
+you have a big cloud of data
+ابر بزرگی از داده در مورد
+
+494
+00:23:41,774 --> 00:23:44,867
+about people's behavior
+رفتار مردم خواهید داشت
+that can be crawled through
+که می‌شه در اون به وسیله‌ی
+
+495
+00:23:44,867 --> 00:23:47,591
+by pattern recognition algorithm.
+الگوریتم‌های تشخیص الگو خزش کرد.
+
+496
+00:23:48,839 --> 00:23:51,260
+And doctors and health policy officials
+و دکتر‌ها و مقامات سیاست‌های سلامتی
+
+497
+00:23:51,260 --> 00:23:53,851
+can start to see patterns
+می‌تونن شروع به دیدن الگو‌هایی
+that change the way,
+کنن که نحوه‌ی،
+
+498
+00:23:53,851 --> 00:23:56,316
+collectively as a society, we understand
+فهم ما، دسته‌جمعی به عنوان یه جامعه رو
+
+499
+00:23:56,316 --> 00:23:59,770
+not just our health, but every single area
+از نه تنها سلامتی‌مون، بلکه از تک به تک نواحی
+
+500
+00:23:59,770 --> 00:24:02,367
+where data can be applied
+که داده‌ می‌تونه بهش اعمال بشه تغییر بده
+
+501
+00:24:02,367 --> 00:24:04,968
+because we start to
+چون ما شروع به فهمیدن
+understand how we might,
+این می‌کنیم که چه طور ممکنه،
+
+502
+00:24:04,968 --> 00:24:08,754
+collectively as a culture,
+همه با هم به عنوان یک فرهنگ،
+change our behavior.
+رفتارمون رو تغییر بدیم.
+
+503
+00:24:12,307 --> 00:24:14,235
+- And if you look at the future of this,
+- و اگه به آینده‌ی اون نگاه منید،
+
+504
+00:24:14,235 --> 00:24:18,293
+we're gonna be embedded in a
+ما قراره توی یه دریا از سرویس‌های
+sea of information services
+اطلاعاتی نهفته بشیم
+
+505
+00:24:18,293 --> 00:24:23,015
+that are connected to massive
+که به دیتابیس‌های عظیمی توی فضای ابری
+databases in the cloud.
+متصل هستن.
+
+506
+00:24:23,015 --> 00:24:26,767
+(rhythmic electronic music)
+
+507
+00:24:26,767 --> 00:24:28,269
+- If you take a look at
+- اگه یه نگاه به هر چیزی
+everything that you touch
+که توی زندگی روزمره
+
+508
+00:24:28,269 --> 00:24:30,697
+in everyday life, the
+لمسش می‌کنید بندازید، اکثریت
+majority of these things
+این چیزا خیلی، خیلی،
+
+509
+00:24:30,697 --> 00:24:33,906
+were invented many, many,
+خیلی، خیلی، خیلی
+many, many, many years ago
+سال پیش اختراع شده‌ان
+
+510
+00:24:33,906 --> 00:24:36,045
+and they're ripe for reinvention
+و آماده‌ی باز‌اختراع شدن‌ان
+
+511
+00:24:36,045 --> 00:24:38,257
+and when they get reinvented,
+و وقتی که بازاختراع بشن،
+
+512
+00:24:38,257 --> 00:24:39,511
+they're gonna be connected,
+قراره به هم متصل بشن،
+
+513
+00:24:39,511 --> 00:24:41,849
+they're gonna be connected in some way
+قراره به هم به شکلی متصل بشن که
+
+514
+00:24:41,849 --> 00:24:45,697
+that data that comes off of
+داده‌ای که از این دستگاه ‌هایی که شما
+these devices that you touch
+لامسشون می‌کنید بیرون میاد
+
+515
+00:24:45,697 --> 00:24:48,523
+is gonna be collected and
+جمع‌اوری و توی یه مکان
+stored in a central location
+مرکزی ذخیره بشن
+
+516
+00:24:48,523 --> 00:24:52,127
+and people are gonna run big
+و ملت الگوریتم‌های کلان داده روی
+data algorithms on this data
+این داده‌ها اجرا می‌کنن
+
+517
+00:24:52,127 --> 00:24:53,581
+and then you're gonna get the feedback
+و بعد شما بازخوردی از یک کل جمعی
+
+518
+00:24:53,581 --> 00:24:56,715
+of the collective whole
+رو به جای یک فرد
+rather than the individual.
+خواهید داشت.
+
+519
+00:24:58,604 --> 00:25:00,056
+- So it's taking people
+- بنابراین مردمی که همین حالاش هم
+who are already out there,
+اون بیرون هستن،
+
+520
+00:25:00,056 --> 00:25:01,569
+who already have these devices,
+و همین حالاش هم این دستگاه‌ها رو دارن رو می‌گیره،
+
+521
+00:25:01,569 --> 00:25:04,033
+and turning all these
+و همه‌ی این مردمو
+people into contributors
+به باز پس دهنده‌های
+
+522
+00:25:04,033 --> 00:25:06,959
+of information back to the system.
+اطلاعات به سیستم تبدیل می‌کنه.
+
+523
+00:25:08,627 --> 00:25:12,167
+You become one of the
+شما به یکی از گره‌های
+nodes on the network.
+شبکه تبدیل می‌شید.
+
+524
+00:25:13,267 --> 00:25:15,220
+I think the Internet,
+فکر می‌کنم اینترنت،
+as wondrous as it's been
+به اندازه‌ی شگفت‌انگیز بودنش
+
+525
+00:25:15,220 --> 00:25:17,349
+over the last 20 years, was like a layer
+در طی ۲۰ سال گذشته، به همون اندازه مثل یک لایه
+
+526
+00:25:17,349 --> 00:25:19,604
+that needed to be in place
+عمل کرده که لازم بوده برای همه‌ی این
+for all these sensors
+حسگرها و وسایل
+
+527
+00:25:19,604 --> 00:25:22,448
+and devices to be able to
+آماده به کار باشه تا بتونن
+communicate with each other.
+با هم دیگه ارتباط برقرار کنن
+
+528
+00:25:22,448 --> 00:25:24,868
+- You know, we're
+- می‌دونین، ما داریم یه
+building this global brain
+مغز سراسری می‌سازیم
+
+529
+00:25:24,868 --> 00:25:28,543
+that has these new functions
+که یه سری عملکرد جدید داره
+and we're accessing them
+و در حال حاضر داریم عمدتاً
+
+530
+00:25:28,543 --> 00:25:30,588
+primarily now through our mobile devices,
+از طریق دستگاه‌های موبایل بهشون دسترسی پیدا می‌کنیم،
+
+531
+00:25:30,588 --> 00:25:33,100
+or obviously also on our desktops,
+یا به طور واضح همچنین روی دسکتاپ‌‌ها،
+
+532
+00:25:33,100 --> 00:25:34,808
+but increasingly mobile.
+اما به طور فزاینده‌ای [روی] موبایل.
+
+533
+00:25:34,808 --> 00:25:38,228
+- I think this data revolution
+- فکر می‌کنم این انقلاب داده‌ای
+has a strange impact really
+تأثیر واقعاً عجیبی روی
+
+534
+00:25:38,228 --> 00:25:41,702
+of people feeling like there's
+حس کردن مردم داره انگار
+somebody listening to them
+که یکی داره به اونا [حرف] اونا گوش می‌ده
+
+535
+00:25:41,702 --> 00:25:45,421
+and that could mean listening
+این می‌تونه به معنای گوش دادن
+in the sense of Big Brother,
+به روایت «برادر بزرگ»ی باشه
+(اشاره به شاهکار جورج اورول ، ۱۹۸۴)
+
+536
+00:25:45,421 --> 00:25:47,048
+someone's listening in,
+[این که] یکی داره به گفتگوهای خصوصی‌مون گوش می‌ده،
+
+537
+00:25:47,048 --> 00:25:50,186
+or it could be someone's
+یا می‌تونه این باشه که یکی
+really hearing me.
+واقعاً داره منو به طور آگاهانه می‌شنوده.
+
+538
+00:25:50,186 --> 00:25:52,884
+This device in my hand knows who I am,
+وسیله‌ای که توی دستمه می‌دونه من کی هستم،
+
+539
+00:25:52,884 --> 00:25:56,442
+it can somewhat anticipate what I want
+می‌تونه تا حدودی پیش‌بینی کنه که چی می‌خوام
+
+540
+00:25:56,442 --> 00:25:59,859
+or where I'm going and react to that.
+یا کجا قراره بم و بهش  واکنش نشون بده.
+
+541
+00:26:01,444 --> 00:26:04,583
+The implications of that are huge
+تأثیرات ضمنی چنین چیزی روی
+
+542
+00:26:04,583 --> 00:26:06,047
+for the decisions that we make
+تصمیم‌هایی که می‌گیریم و برای
+
+543
+00:26:06,047 --> 00:26:08,599
+and for the systems that we're part of.
+نظامی که جزئی ار اون هستیم ، خیلی بزرگن.
+
+544
+00:26:11,184 --> 00:26:13,441
+I think about living in a city
+من به زندگی توی یه شهر
+
+545
+00:26:13,441 --> 00:26:15,951
+and how you're experience
+و این که تجربه‌ی شما از زندگی
+of living in that city
+توی اون شهر توی
+
+546
+00:26:15,951 --> 00:26:18,112
+would be, in 10 or 15 years.
+۱۰ یا ۱۵ سال آینده چه طور خواهد بود، فکر می‌کنم.
+
+547
+00:26:18,112 --> 00:26:19,481
+You've got places like Chicago
+شما مکان‌هایی مثل شیکاگو رو دارید
+
+548
+00:26:19,481 --> 00:26:20,958
+where they're being hugely innovative
+که دارن به طور جدی نوآورانه عمل می‌کنن
+
+549
+00:26:20,958 --> 00:26:23,131
+and they're taking massive data sets,
+و مجموعه‌ داده‌های عظیمی رو می‌گیرن،
+
+550
+00:26:23,131 --> 00:26:24,828
+combining them in interesting ways,
+و اونا را به شیوه‌‌های جالبی [با هم] ترکیب می‌کنن
+
+551
+00:26:24,828 --> 00:26:26,595
+running interesting algorithms on them
+[و] الگوریتم‌های جالبی روشون اجرا می‌کنن
+
+552
+00:26:26,595 --> 00:26:29,222
+and figuring out ways
+و راه‌هایی رو پیدا می‌کنن که
+that they can intervene
+می‌تونن [باهاش] توی
+
+553
+00:26:29,222 --> 00:26:31,397
+in this system to sort of see patterns
+این سیستم مداخله کنن تا یه جورایی الگوها رو ببینن
+
+554
+00:26:31,397 --> 00:26:34,064
+and be able to react to those patterns.
+و بتونن به اون الگوها واکنش نشون بدن.
+
+555
+00:26:34,731 --> 00:26:38,996
+When you take in data, it
+وقتی شما داده‌ای رو می‌پذیرید، روی
+affects you as an individual
+شما به عنوان یه فرد تأثیر می‌ذاره
+
+556
+00:26:38,996 --> 00:26:40,485
+and then you affect the system
+و بعد شما روی سیستم تأثیر می‌ذارید
+
+557
+00:26:40,485 --> 00:26:42,122
+and that affects the data again
+و این دوباره روی داده تأثیر می‌ذاره
+
+558
+00:26:42,122 --> 00:26:45,423
+and this round trip that you
+و این سفر رفت و بازگشتی که شما
+start to see yourself part of
+شروع به دیدن خودتون [به عنوان] بخشی از اون می‌:نید
+
+559
+00:26:45,423 --> 00:26:49,010
+makes me understand that I'm
+منو وادار می‌کنه که بفهمم که عاملی
+an actor in a larger system.
+توی یه سیستم بزرگتر هستم.
+
+560
+00:26:49,010 --> 00:26:51,265
+For instance, if you know
+به طور مثال، اگه بدونید که با
+by looking at the data,
+نگاه به داده‌ها،
+
+561
+00:26:51,265 --> 00:26:53,404
+and you have to put
+و شما باید مجموعه‌ داده‌های
+different data sets together
+مختلف رو کنار هم بذارید تا
+
+562
+00:26:53,404 --> 00:26:56,180
+to be able to see this, that
+بتونید اینو ببینید، که بعضی
+some of the street lights,
+چراغ‌های خیابون‌ها،
+
+563
+00:26:56,180 --> 00:26:58,863
+you know, when they go out,
+می‌دونین دیگه، وقتی که خاموش می‌شن
+they cause higher crime
+موجب [رخ داد] جرم و جنایت بیشتری
+
+564
+00:26:58,863 --> 00:27:00,665
+in that particular block,
+توی اون منطقه‌ی خاص می‌شن،
+
+565
+00:27:00,665 --> 00:27:02,117
+(siren blares)
+
+566
+00:27:02,117 --> 00:27:04,871
+you start to see ways that
+شروع به دیدن روش‌هایی می‌کنید
+if you can query that data
+که اگه روی اون داده‌ها به نحوی
+
+567
+00:27:04,871 --> 00:27:07,462
+in intelligent ways,
+هوشمندانه کوئری بزنید،
+that you can prioritize
+اون وقت می‌تونید منبع محدودی
+
+568
+00:27:07,462 --> 00:27:09,972
+the limited resources
+که توی شهر دارید رو
+that you have in a city
+اولویت بندی کنید
+
+569
+00:27:09,972 --> 00:27:12,469
+to take care of the things
+تا مراقب چیز‌هایی باشید که
+that have, you know,
+می‌دونین دیگه،
+
+570
+00:27:12,469 --> 00:27:15,597
+follow along effects
+تأثیرات در پی
+and follow along costs.
+و هزینه‌های در پی خواهند داشت.
+
+571
+00:27:16,104 --> 00:27:17,896
+- In the end, you know,
+- در آخر، می‌دونید،
+you're going to hope that
+می‌خواید امید داشته باشید
+
+572
+00:27:17,896 --> 00:27:21,113
+this is just our reaction as a species
+که این واکنش ما به عنوان یک گونه به
+
+573
+00:27:21,113 --> 00:27:23,079
+to this scale problem, right,
+این مسئله‌ی مقیاس [جمعیت] باشه، نه؟،
+
+574
+00:27:23,079 --> 00:27:24,625
+how do you get another, you know,
+[آخه] چه طور، می‌دونید دیگه،
+
+575
+00:27:24,625 --> 00:27:27,165
+two billion people on the planet?
+از پس یه دو میلیارد نفر دیگه روی سیاره بر میاید؟
+
+576
+00:27:27,165 --> 00:27:29,291
+You can't do it unless
+نمی‌نوتید [بر بیاید] مگه این که
+you start instrumenting
+شروع به تجهیز
+
+577
+00:27:29,291 --> 00:27:31,802
+every little thing and
+هر چیز جزئی به وسایل اندازه‌گیری
+dialing it in just right.
+و درست به حساب آوردنش کنید.
+
+578
+00:27:31,802 --> 00:27:33,974
+- And you know, right
+- و می‌دونید، حالا
+now you wait for the bus
+شما منتظر اتوبوس می‌مونید
+
+579
+00:27:33,974 --> 00:27:36,636
+because the bus is coming
+چون اتوبوس طبق یه برنامه‌ی زمانی
+on a particular schedule
+مشخصی میاد
+
+580
+00:27:36,636 --> 00:27:38,806
+and it's great, we're
+و این عالیه، ما الآن [دیگه]
+now at the point where
+به جایی رسیدیم که
+
+581
+00:27:38,806 --> 00:27:41,816
+your phone will tell you when
+موبایلتون بهتون می‌گه که
+the bus is really coming,
+اتوبوس عملاً کی میاد،
+
+582
+00:27:41,816 --> 00:27:44,408
+not just when the bus
+نه فقط این که کِی
+is scheduled to come.
+برنامه‌ریزی شده بیاد.
+
+583
+00:27:45,319 --> 00:27:47,410
+You know, take that a little bit forward.
+می‌دونید، [بیاید] یکم  بهش مسئولیت و کاربرد اضافه کنیم.
+
+584
+00:27:47,410 --> 00:27:48,745
+What about when there's more use
+وقتی استفاده ی بیشتری از یک خط [اتوبوس]
+
+585
+00:27:48,745 --> 00:27:50,581
+on one line than the other?
+نسبت به خط دیگه وجود داره چی؟
+
+586
+00:27:50,581 --> 00:27:52,336
+Well instead of sticking
+خوب به جای چسبیدن
+with the schedule,
+به برنامه‌ریزی
+
+587
+00:27:52,336 --> 00:27:55,719
+does the system start to understand
+آیا سیستم شروع به فهم این می‌کنه
+
+588
+00:27:55,719 --> 00:28:00,259
+that maybe this route
+که شاید این مسیر امروز به
+doesn't need 10 buses today
+۱۰ تا اتوبوس نیاز نداشته باشه
+
+589
+00:28:00,259 --> 00:28:02,434
+and automatically shift those resources
+و به طور خودکار اون منابع رو
+
+590
+00:28:02,434 --> 00:28:05,892
+over to the lines where
+به خط هایی که
+the buses are full.
+اتوبوس‌هاش اشغالن انتقال بده؟
+
+591
+00:28:05,892 --> 00:28:09,238
+- Boston just created a new smartphone app
+- بوسوتن یه اپ برای تلفن‌های هوشمند ساخته
+
+592
+00:28:09,238 --> 00:28:12,908
+which uses the
+که از شتاب‌سنج
+accelerometer in your phone.
+داخل موبایلتون بهره می‌بره.
+
+593
+00:28:12,908 --> 00:28:15,326
+So if you're driving through
+بنابراین اگه دارید توی خیابونای
+the streets of south Boston
+شمال بوستون رانندگی می‌کنید
+
+594
+00:28:15,326 --> 00:28:18,801
+and all of a sudden there's
+و یه‌مرتبه یه چاله‌ی بزرگ
+a big dip in the street,
+توی خیابون وجود داشته باشه،
+
+595
+00:28:18,801 --> 00:28:21,509
+the phone realizes it.
+موبایل تشخیصش می‌ده.
+
+596
+00:28:21,509 --> 00:28:23,263
+So anybody in the city of Boston
+بنابراین هر کسی توی شهر بوستون
+
+597
+00:28:23,263 --> 00:28:25,016
+that has this up and running
+که این این [اپ] رو در حال اجرا داشته باشه
+
+598
+00:28:25,016 --> 00:28:27,688
+is feeding real-time data
+داده‌ی به‌هنگام در مورد
+on the quality of the roads
+کیفیت جاده‌ها به [مسؤولین]
+
+599
+00:28:27,688 --> 00:28:29,315
+to the city of Boston.
+شهر بوستون بازخورد می‌ده.
+
+600
+00:28:29,315 --> 00:28:31,069
+- Then you start to feel that your city
+- بعد شروع می‌کنید به احساس این که شهرتون
+
+601
+00:28:31,069 --> 00:28:32,985
+is sort of a responsive organism
+یه جور ارگانیسم کنشگرا است
+
+602
+00:28:32,985 --> 00:28:37,069
+just like your body puts
+درست مثل بدنتون که خون رو به
+your blood where it needs it.
+[هر] جایی که لازمش داره می‌فرسته.
+
+603
+00:28:38,328 --> 00:28:41,708
+Think about ways that
+به روش‌هایی فکر کنید که
+we could live in cities
+می‌تونیم توی شهر‌ها زندگی کنیم
+
+604
+00:28:41,708 --> 00:28:44,714
+when they're that responsive to our needs
+وقتی که تا این حد به نیاز‌های ما واکنش‌گرا باشن
+
+605
+00:28:44,714 --> 00:28:46,969
+and think about the implications
+و به نتایج ضمنی اون برای
+of that for the planet
+سیاره [مون] فکر کنید
+
+606
+00:28:46,969 --> 00:28:49,303
+because really cities are also really
+چون حقیقتاً شهر‌هاعلاوه‌براین
+
+607
+00:28:49,303 --> 00:28:52,633
+how we're going to
+[بیانگر‌] چگونگی برنامه‌ی ما برای
+survive the 21st century.
+بقا در قرن ۲۱‌ام هستن.
+
+608
+00:28:52,633 --> 00:28:55,302
+You can live in a city with
+شما می‌تونید توی شهری
+a far smaller footprint
+با تأثیرات مخرب محیطی بسیار کمتری
+
+609
+00:28:55,302 --> 00:28:57,672
+than anywhere else in the world
+نسبت به هر جای دیگه‌ی دنیا زندگی کنید
+
+610
+00:28:57,672 --> 00:29:01,273
+and I think data and sort
+و من فکر می‌کنم که داده‌ها و به نوعی
+of the responsive systems
+سیستم‌های کنش‌گرا
+
+611
+00:29:01,273 --> 00:29:04,065
+will play an enormous role in that.
+نقشی بسیار بزرگ در این قضیه خواهند داشت.
+
+612
+00:29:06,743 --> 00:29:08,658
+- I think one of the most
+- فکر می‌کنم یکی از هیجان‌انگیز‌ترین
+exciting things about data
+چیز‌ها در مورد کلان داده
+
+613
+00:29:08,658 --> 00:29:12,411
+is that, you know, it's
+اینه که، می‌دونید دیگه، بهمون
+giving us extra senses,
+حواس اضافه می‌ده،
+
+614
+00:29:12,411 --> 00:29:14,035
+it's expanding upon, you know,
+می‌دونید دیگه، توانایی ‌مون برای
+
+615
+00:29:14,035 --> 00:29:17,172
+our ability to perceive the world
+ادراک و دیدن جهان  رو گسترش می‌ده
+
+616
+00:29:17,172 --> 00:29:19,633
+and it actually ends up
+و عملاً در نهایت
+giving us the opportunity
+فرصت قابل لمس کردن
+
+617
+00:29:19,633 --> 00:29:21,840
+to make things tangible again
+چیز‌ها دوباره بهمون می‌ده
+
+618
+00:29:21,840 --> 00:29:23,721
+and to actually get a
+و این که [بتونیم]
+perspective on ourselves,
+بینشی از خودمون داشته باشیم،
+
+619
+00:29:23,721 --> 00:29:27,141
+both as individuals and also as society.
+هم به عنوان یک فرد و هم به عنوان یک جامعه.
+
+620
+00:29:29,143 --> 00:29:32,478
+- And there's always that
+- و همیشه یه لحظه‌[ی خاص]
+moment in data visualization
+توی مصورسازی داده‌ها هست
+
+621
+00:29:32,478 --> 00:29:34,070
+when you're looking at, you know,
+که شما به ، می‌دونید دیگه،
+
+622
+00:29:34,070 --> 00:29:35,822
+tons and tons and tons of data.
+هزاران هزاران هزار داده نگاه می‌کنید.
+
+623
+00:29:35,822 --> 00:29:38,237
+The point is not to look
+نکته ، نگاه نکردن به
+at the tons and tons
+هزاران هزاران
+
+624
+00:29:38,237 --> 00:29:40,910
+and tons of data, but what are the stories
+هزار داده است ، بلکه به داستان هایی هست
+
+625
+00:29:40,910 --> 00:29:43,074
+that emerge out of it.
+که از دلشون پدیدار می‌شن.
+
+626
+00:29:44,579 --> 00:29:46,624
+- If you said look, give
+- اگه می‌گفتید ببین، آدرس
+me the home street address
+خیابون خونه‌ی همه‌ی کسانی که
+
+627
+00:29:46,624 --> 00:29:51,048
+of everyone who entered New
+در سال گذشته به زندان ایالتی
+York State prison last year
+نیویورک وارد شدن رو بهم بده
+
+628
+00:29:51,048 --> 00:29:52,917
+and the home street address of everyone
+و آدرس خیابون خونه‌ی همه‌ی کسانی که
+
+629
+00:29:52,917 --> 00:29:55,053
+who left New York State prison last year
+در سال گذشته زندان ایالتی نیویورک رو ترک کردن
+
+630
+00:29:55,053 --> 00:29:57,759
+and we said look, let's get
+و ما گفتیم ، بیاید اعداد و ارقام رو در بیاریم
+the numbers, put it on a map
+و بذاریم روی نقشه
+
+631
+00:29:57,759 --> 00:29:59,765
+and actually show it to people.
+و در واقع به مردم نشونش بدیم.
+
+632
+00:29:59,765 --> 00:30:02,860
+And when we first
+و وقتی که برای بار اول
+produced our Brooklyn map,
+نقشه‌ی بروکلینمون رو ساختیم
+
+633
+00:30:02,860 --> 00:30:04,689
+which was the first one we did,
+که اولین نقشه‌ای بود که روش کار کردیم،
+
+634
+00:30:04,689 --> 00:30:07,275
+they hit the floor, not
+کلی سر و صدا کرد، نه فقط
+because nobody knew this.
+به خاطر این که هیچ کس اینو نمی‌دونست.
+
+635
+00:30:07,275 --> 00:30:08,727
+You know, everyone knew anecdotally
+می‌دونید، همه بر حسب گفته‌ها می‌دونستن
+
+636
+00:30:08,727 --> 00:30:13,068
+how concentrated the effect
+چه قدر تأثیر [مخرب] حبس
+of incarceration was,
+متمرکز [در یه جای خاص] هست،
+
+637
+00:30:13,068 --> 00:30:15,901
+but no one had actually seen
+اما هیچ کس عملاً اون رو
+it based on actual data.
+بر اساس داده‌های حقیقی ندیده بود.
+
+638
+00:30:15,901 --> 00:30:19,905
+We started to show these
+ما شروع به نشون دادن
+remarkably intensive
+تمرکز به طرز قابل توجهی شدید
+
+639
+00:30:19,905 --> 00:30:22,570
+concentrations of people
+آدمایی کردیم که به زندان می‌رفتن
+going in and out of prison,
+و ازش بیرون میومدن
+
+640
+00:30:22,570 --> 00:30:24,707
+highly disproportionately located
+که به شدت به طور نامتناسبی توی
+
+641
+00:30:24,707 --> 00:30:28,020
+in very small areas around the city.
+توی محل ‌های کوچک اطراف شهر واقع شده بود.
+
+642
+00:30:31,788 --> 00:30:34,573
+- [Voiceover] And what we found
+- و چیزی فهمیدیم این بود که
+is that the home addresses
+آدرس خونه‌های
+
+643
+00:30:34,573 --> 00:30:37,834
+of incarcerated people
+آدمای حبس کشیده
+correlates very highly
+بسیار زیاد با
+
+644
+00:30:37,834 --> 00:30:41,382
+with poverty and with people of color.
+فقر و مردم رنگین پوست همبستگی داره.
+
+645
+00:30:44,498 --> 00:30:46,970
+- You have a justice system,
+- شما یه سیستم قضایی دارید،
+which by all accounts
+که از هر لحاظ
+
+646
+00:30:46,970 --> 00:30:48,376
+is supposed to be essentially based on
+باید ماهیتاً بر اساس
+
+647
+00:30:48,376 --> 00:30:52,727
+a case-by-case, individual
+تصمیم کیفری فردمحور
+decision of justice.
+و پرونده-به-پرونده باشه.
+
+648
+00:30:52,727 --> 00:30:54,561
+Well when you looked at the map over time,
+[اما] خوب وقتی در طی گذشت زمان به نقشه نگاه می‌کردید،
+
+649
+00:30:54,561 --> 00:30:58,856
+what you really were seeing
+چیزی که در عمل می‌دیدید
+was this mass population
+حرکت یه جمعیت توده‌ای
+
+650
+00:30:58,856 --> 00:31:03,697
+movement out and mass
+به بیرون و بارنشوندن اون جمعیت توده‌ای
+population resettlement back,
+به جای قبلیشون بود،
+
+651
+00:31:03,697 --> 00:31:06,097
+this cyclical movement of people.
+یه حرکت تناوبی از مردم.
+
+652
+00:31:06,807 --> 00:31:08,482
+- So once we had mapped the data,
+- بنابراین وقتی که ما داده‌ها رو نگاشت کردیم،
+
+653
+00:31:08,482 --> 00:31:10,861
+we quantified it in
+از لحاظ این که چه قدر
+terms of how much it cost
+هزینه می‌بره
+
+654
+00:31:10,861 --> 00:31:13,656
+to house those same people in prison.
+تا همون آدما رو دوبراه توی زندان جا داد کمیتش رو بیان کردیم.
+
+655
+00:31:13,656 --> 00:31:14,572
+- And that's where we started to think
+- و این جایی هست که شروع به فکر
+
+656
+00:31:14,572 --> 00:31:17,078
+about million dollar blocks.
+درباره‌ی محل‌های میلیون دلاری کردیم.
+
+657
+00:31:17,078 --> 00:31:21,910
+We found over 35 individual
+ما تنها توی بروکلین، بیش از
+city blocks in Brooklyn alone
+۳۵ محل پیدا کردیم
+
+658
+00:31:21,910 --> 00:31:24,165
+for which the state was spending
+که به ازاش ایالت داشت
+
+659
+00:31:24,165 --> 00:31:26,579
+more than a million dollars every year
+هر ساله بیش از یک میلیون دلار
+
+660
+00:31:26,579 --> 00:31:29,545
+to remove and return people to prison.
+برای بیرون کردن و برگردوندن مردم [اون] به زندان پرداخت می‌کرد.
+
+661
+00:31:32,163 --> 00:31:34,381
+We needed to reframe that conversation
+ما باید این گفتگو رو به شکلی دیگه بیان می‌کریدم.
+
+662
+00:31:34,381 --> 00:31:37,178
+and what immediately
+و چیزی مه بلافاصله از دل
+emerged out of this was
+اون پدید اومد
+
+663
+00:31:37,178 --> 00:31:39,428
+this idea of justice reinvestment.
+ایده‌ی سرمایه‌گذاری مجدد قضایی بود.
+
+664
+00:31:39,428 --> 00:31:41,309
+We weren't building
+ما هیچی توی اون مکان‌ها
+anything in those places
+به ازای اون دلارها
+
+665
+00:31:41,309 --> 00:31:43,376
+for those dollars.
+نمی‌ساختیم.
+
+666
+00:31:43,376 --> 00:31:45,813
+How can we demand sort of more equity
+چه طور می‌تونیم تقاضای بی طرفی
+
+667
+00:31:45,813 --> 00:31:47,473
+for that investment
+
+668
+00:31:47,473 --> 00:31:49,355
+to extract those neighborhoods
+
+669
+00:31:49,355 --> 00:31:53,277
+from what decades of
+criminalization has done?
+
+670
+00:31:53,277 --> 00:31:56,261
+And that shift had to come from the data
+
+671
+00:31:56,261 --> 00:31:59,430
+and a new way of thinking
+about information.
+
+672
+00:32:01,779 --> 00:32:04,362
+These maps did that.
+
+673
+00:32:07,908 --> 00:32:10,066
+- The amount of data that
+مقدار داده‌ای که در حال حاضر
+now is being collected
+داره جمع‌‌‌آوری در رابطه با
+
+674
+00:32:10,066 --> 00:32:14,533
+about those areas that are
+اون نواحی که توی چرخه‌ی فقر
+stuck in cycles of poverty,
+، چرخه‌ی قحطی، چرخه‌ی جنگ
+
+675
+00:32:14,533 --> 00:32:17,990
+cycles of famine, cycles of war,
+گیر افتادن  جمع آوری می‌شه
+
+676
+00:32:17,990 --> 00:32:21,412
+gives people or governments and NGOs
+به مردم یا دولت‌ها و ان جی او ها
+
+677
+00:32:21,412 --> 00:32:24,777
+an opportunity to do good.
+فرصتی برای کار خوب می‌ده.
+
+678
+00:32:24,777 --> 00:32:28,025
+Understanding on the ground,
+دونستن روی زمین،
+information on the ground,
+طالاعات روی زمین،
+
+679
+00:32:28,025 --> 00:32:30,542
+data on the ground can change the way
+داده‌های روی زمین می‌تونه نحوه‌ی تخصیص
+
+680
+00:32:30,542 --> 00:32:33,570
+people apply resources
+منابع توسط مردمی رو که قصد
+
+681
+00:32:33,570 --> 00:32:36,661
+which are intended to try to help.
+تلاش برای کمک کردن دارن تغییر بده.
+
+682
+00:32:37,999 --> 00:32:39,416
+- We really fundamentally believe
+- ما اساساً باور داریم
+
+683
+00:32:39,416 --> 00:32:41,296
+that data has intrinsic value
+که داده‌ها ارزشی ماهوی دارن
+
+684
+00:32:41,296 --> 00:32:42,955
+and we also fundamentally believe
+و همچنین اساساً بر این باوریم
+
+685
+00:32:42,955 --> 00:32:45,878
+that the individuals who create that data
+که افرادی که داده‌ها رو تولید می کنن
+
+686
+00:32:45,878 --> 00:32:49,126
+should be able to benefit from that data.
+باید بتون از اون داده بهره ببرن.
+
+687
+00:32:50,246 --> 00:32:52,048
+But we're working with one
+اما ما داریم با یه
+of the big mobile phone
+اپراتور بزرگ موبایل توی
+
+688
+00:32:52,048 --> 00:32:55,088
+operators in Kenya, we're
+کنیا کار می‌کنیم، داریم
+looking at the dynamics
+دینامیک مشترک‌های
+
+689
+00:32:55,088 --> 00:32:57,919
+of these mobile phone subscribers.
+این تلفن‌های موبایل رو بررسی می‌‌کنیم.
+
+690
+00:32:57,919 --> 00:33:00,250
+Millions of phones in Kenya.
+میلیون‌ها موبایل در کنیا.
+
+691
+00:33:01,463 --> 00:33:02,714
+We're looking at how the population
+داریم این که چه طور جمعیت
+
+692
+00:33:02,714 --> 00:33:05,169
+was moving over the country.
+در طول کشور حرکت می‌کردن رو بررسی می‌کنیم.
+
+693
+00:33:06,126 --> 00:33:08,550
+And we're overlaying that movement data
+و داریم این داده‌ی مربوط به حرکت رو با
+
+694
+00:33:08,550 --> 00:33:11,740
+with data about parasite prevalence
+داده‌های شیوع انگل
+
+695
+00:33:11,740 --> 00:33:14,959
+from household surveys
+که از پرسشنامه‌های خانوادگی
+and data from hospitals.
+و داده‌ی بیمارستان‌ها به دست اومده همپوشانی می‌دیم.
+
+696
+00:33:17,876 --> 00:33:20,672
+We can start identifying
+می‌تونیم شروع به پیدا کردن
+these malaria hot spots,
+مناطق پر خطر مالاریا کنیم،
+
+697
+00:33:20,672 --> 00:33:24,336
+regions within Kenya
+یعنی مناطقی داخل کنیا که
+that desperately needed
+به شدت به
+
+698
+00:33:24,336 --> 00:33:26,626
+the eradication dollars.
+سرمایه‌ برای پاکسازی نیاز داشتن.
+
+699
+00:33:29,080 --> 00:33:31,168
+It's fascinating to
+شروع به استخراج
+start extracting models
+مدل‌ها و
+
+700
+00:33:31,168 --> 00:33:32,722
+and plotting graphs of the behavior
+کشیدن گراف رفتار
+
+701
+00:33:32,722 --> 00:33:34,958
+of tens of millions of people in Kenya,
+ده‌ها میلیون مردم توی کنیا جالبه،
+
+702
+00:33:34,958 --> 00:33:37,802
+but it's meaningful when you
+اما وقتی معناداره که بتونید
+can make those insights count,
+اون بصیرت رو به کار ببندید،
+
+703
+00:33:37,802 --> 00:33:40,296
+when you can take the
+وقتی که بتونید اون بینش‌هایی
+insights that you've gleaned
+که از جاهای مختلف جمع کردید رو بگیرید
+
+704
+00:33:40,296 --> 00:33:42,092
+and put them into practice
+و اونو به بوته‌ی عمل بذارید
+
+705
+00:33:42,092 --> 00:33:45,050
+and measure what the impact was
+و تأثیرش رو اندازه بگیرید و
+
+706
+00:33:45,050 --> 00:33:47,384
+and hopefully making
+در بهترین حالت زندگی
+the lives of the people
+مردمی که این داده‌ها رو تولید می‌کنن
+
+707
+00:33:47,384 --> 00:33:49,460
+who are generating this data better.
+رو بهتر کنید.
+
+708
+00:33:49,460 --> 00:33:52,430
+(children yelling)
+
+709
+00:33:52,430 --> 00:33:56,802
+(siren blaring)
+
+710
+00:33:56,802 --> 00:34:00,595
+- That afternoon when the
+- اون بعد‌ازظهر وقتی که
+earthquake struck in January,
+توی ژانویه زلزله شد،
+
+711
+00:34:00,595 --> 00:34:03,890
+I was watching CNN and
+من داشتم سی ان ان تماشا می‌:ردم
+saw the breaking news
+و خبر فوری رو دیدم
+
+712
+00:34:03,890 --> 00:34:07,556
+and I had taken my wife in
+اون زمان همسرم رو به
+Port-au-Prince at the time
+پورت-آو-پرنیس برده بودم
+
+713
+00:34:07,556 --> 00:34:09,387
+and for the better part of 12 hours
+و در تقریباً تمام ۱۲ ساعت آینده‌اش
+
+714
+00:34:09,387 --> 00:34:11,592
+had no idea whether any one of my friends
+هیچ نمی‌دونستم که آیا کسی از دوستام
+
+715
+00:34:11,592 --> 00:34:13,677
+were alive or dead.
+زنده بودن یا مرده.
+
+716
+00:34:13,677 --> 00:34:16,714
+- [Voiceover] Meier was a
+مایر دانشجوی داکترای
+Tufts University PhD student
+داشنگاه تافتس بود
+
+717
+00:34:16,714 --> 00:34:19,251
+and directed crisis mapping for Ushahidi,
+و ایجاد نقشه‌ی بحران‌ها برای یوشاهیدی را سرپرستی می‌کرد
+
+718
+00:34:19,251 --> 00:34:21,467
+a nonprofit that collects, visualizes,
+یک شرکت عام‌المنفعه که داده‌های بحران‌ها را
+
+719
+00:34:21,467 --> 00:34:23,576
+and then maps crisis data.
+جمع‌آوری، مصور کرده و سپس روی نقشه نمایش می‌دهد.
+
+720
+00:34:23,576 --> 00:34:25,291
+- And so I went on social media
+- و بعد من رفتم روی شبکه‌های اجتماعی
+
+721
+00:34:25,291 --> 00:34:27,505
+and I found dozens and dozens of Haitians
+ده‌ها نفر هائیتیایی رو در حال
+
+722
+00:34:27,505 --> 00:34:30,704
+tweeting live about the damage
+توییت به طور زنده درباره‌ی خسارات دیدم
+
+723
+00:34:30,704 --> 00:34:32,664
+and a lot of the time they were sharing
+و در خیلی از موارد اونا جایی که
+
+724
+00:34:32,664 --> 00:34:34,449
+where this damage was happening.
+اون خسارت داشت رخ می‌داد رو به اشتراک می‌ذاشتن.
+
+725
+00:34:34,449 --> 00:34:37,451
+So they would say the church
+بنابراین مثلاً می‌گفتن کلیسایی
+on the corner of X and Y
+که در گوشه اکس و وای
+
+726
+00:34:37,451 --> 00:34:40,419
+has been destroyed or is collapsed
+قرار داشت، نابود شد یا فرو ریخت
+
+727
+00:34:40,419 --> 00:34:42,576
+and they would refer to
+و به اسم خیابون‌ها و از این
+street names and so on.
+جور چیزا اشاره می‌کردن.
+
+728
+00:34:42,576 --> 00:34:45,079
+So it's about really
+بنابراین  قضیه عملاً در مورد
+becoming a digital detector
+تبدیل شدن به یه شناساگر دیجیتالی
+
+729
+00:34:45,079 --> 00:34:48,773
+and then trying to understand
+و بعد سعی برای فهمیدن این که
+where on the map this was.
+روی نقشه کجا می‌شد بود.
+
+730
+00:34:48,773 --> 00:34:50,280
+- [Voiceover] So he
+- بدین ترتیب او هر کسی که می‌شناخت
+called everyone he knew
+را فراخواند
+
+731
+00:34:50,280 --> 00:34:53,061
+and put together a mostly
+و تیمی عمدتاً داوطلب را
+volunteer team in Boston
+در بوستون گرد هم آورد
+
+732
+00:34:53,061 --> 00:34:55,694
+to prioritize the most
+تا توییت‌هایی با بیشترین
+life and death tweets
+اهمین مرگ و زندگی را اولویت بندی کرده
+
+733
+00:34:55,694 --> 00:34:57,990
+and map them for rescue workers.
+و آن‌ها را برای گروه نجات به روی نقشه بیاورد.
+
+734
+00:34:57,990 --> 00:35:01,072
+- For the first time,
+- برای اولین بار،
+it wasn't the government
+این سازمان مدیریت
+
+735
+00:35:01,072 --> 00:35:02,937
+emergency management organization
+بحران دولت بنود که
+
+736
+00:35:02,937 --> 00:35:05,106
+that had the best data
+بهترین داده‌ها رو از
+of what was happening,
+این که چه اتفاقی داشت می‌افتاد در دست داشت
+
+737
+00:35:05,106 --> 00:35:08,386
+but it was legions of
+بلکه گروه‌های داوطلبی بودن
+volunteers that came together
+به دور هم اومدن
+
+738
+00:35:08,386 --> 00:35:10,427
+and crowdmapped the location
+و مکان ساختمان‌هایی که فرو ریخته بودن
+
+739
+00:35:10,427 --> 00:35:12,178
+of buildings that had collapsed,
+مردمی که زیر آوار گیر کرده بوددن،
+
+740
+00:35:12,178 --> 00:35:14,020
+people that were trapped in rubble,
+جاهایی که آب لازم بود،
+
+741
+00:35:14,020 --> 00:35:15,805
+locations where water was needed,
+جاهایی که دکتر نیاز بود و امثال این رو
+
+742
+00:35:15,805 --> 00:35:18,926
+where physicians were needed and the like.
+به طور دسته جمعی مشخص کردن.
+
+743
+00:35:19,558 --> 00:35:21,725
+- I think we've seen, not only in Haiti
+- فکر می‌کنم نه تنها در هائیتی
+
+744
+00:35:21,725 --> 00:35:23,603
+but almost every disaster since Haiti,
+بلکه تقریباً توی هر فاجعه‌ای پس از هائیتی،
+
+745
+00:35:23,603 --> 00:35:28,101
+just an explosion of social media content.
+[هم] شاهد انفجار محتوای شبکه‌‌های اجتماعی‌ بودیم.
+
+746
+00:35:28,101 --> 00:35:29,758
+- [Voiceover] Disaster
+گروه‌های ایجاد نقشه برای
+mapping groups like Meier's
+بحران مانند مایر
+
+747
+00:35:29,758 --> 00:35:31,637
+realized that there was so much at stake
+دریافتند که چنان اهمیتی در این ماجراست
+
+748
+00:35:31,637 --> 00:35:34,036
+and so much raw data
+و آن قدر داده‌ی خام
+coming from social media
+از جانب شبکه‌های اجتماعی
+
+749
+00:35:34,036 --> 00:35:35,636
+during natural disasters.
+در طی بلایای طبیعی وجود دارد،
+
+750
+00:35:35,636 --> 00:35:37,340
+They needed to come up with new algorithms
+که لازم بود تا الگوریتم‌های جدیدی
+
+751
+00:35:37,340 --> 00:35:39,543
+to sort through the flood of information.
+برای بررسی و طبقه‌بندی این سیل اطلاعات ابداع کنند.
+
+752
+00:35:39,543 --> 00:35:43,378
+- We are drawing on
+- ما داریم از هوش مصنوعی،
+artificial intelligence,
+یادگیری ماشین،
+
+753
+00:35:43,378 --> 00:35:46,076
+machine learning, working
+بهره می‌بریم و با عالمان داده
+with data scientists
+کار می‌کنیم تا
+
+754
+00:35:46,076 --> 00:35:49,158
+to develop semi-automated ways
+روش‌های نیمه‌خودکاری رو برای استخراج
+
+755
+00:35:49,158 --> 00:35:53,027
+to extract relevant, informative
+اطلاعات مرتبط، مفید
+and actionable information
+و قابل اتکا برای عملی
+
+756
+00:35:53,027 --> 00:35:55,116
+from social media during disasters.
+رو از شبکه‌های اجتماعی در طی بالایای طبیعی توسعه بدیم.
+
+757
+00:35:55,116 --> 00:35:56,283
+So one of our projects is called
+به همین دلیل یکی از پروژه‌هامون
+
+758
+00:35:56,283 --> 00:35:59,400
+Artificial Intelligence
+هوش مصنوعی برای
+for Disaster Response.
+واکنش به فجایع نام داره.
+
+759
+00:36:01,270 --> 00:36:02,891
+During the Hurricane Sandy,
+در طی طوفان سندی،
+
+760
+00:36:02,891 --> 00:36:06,891
+we collected five million tweets
+ما پنج میلیون توییت رو
+during the first few days.
+در همون روز‌های اول جمع‌‌‌آوری کردیم.
+
+761
+00:36:07,514 --> 00:36:10,767
+With the Sandy data, we've
+با داده‌های سندی، ما می‌تونستیم
+been able to show empirically
+به وسیله‌ی مشاهده نشون بدیم
+
+762
+00:36:10,767 --> 00:36:13,385
+that we can automatically
+که می‌تونیم به طور خودکار
+identify whether or not
+مشخص کنیم که آیا
+
+763
+00:36:13,385 --> 00:36:17,510
+a tweet has been written
+یه توییت توسط یه شاهد عینی
+by an eye witness.
+نوشته شده یا نه.
+
+764
+00:36:17,510 --> 00:36:18,958
+So somebody who is writing something
+بنابراین [اگه] یکی یه چیزی بنویسه
+
+765
+00:36:18,958 --> 00:36:21,497
+saying the bridge is down,
+که می‌گه پل خراب شده،
+
+766
+00:36:21,497 --> 00:36:23,708
+we can say with a degree of accuracy
+ما می‌تونیم با درجه‌‌‌ی دقت
+
+767
+00:36:23,708 --> 00:36:26,165
+of about 80% and higher whether that tweet
+حدود ۸۰ درصد یا بالاتر بگیم که آیا اون توییت
+
+768
+00:36:26,165 --> 00:36:27,869
+has actually been posted
+واقعاً توسط یه شاهد عینی
+by an eye witness,
+فرستاده شده یا نه،
+
+769
+00:36:27,869 --> 00:36:31,060
+which is really important
+که وافعاً برای واکنش به فجایج
+for disaster response.
+اهمیت داره.
+
+770
+00:36:33,070 --> 00:36:35,561
+I think that goes to the heart of why
+فکر می‌کنم بر‌می‌کرده به بطن این‌ که چرا
+
+771
+00:36:35,561 --> 00:36:38,192
+something like social media
+چیزی مثل شبکه‌های اجتماعی و
+and Twitter is so important.
+و توییتر این قدر مهم هستن.
+
+772
+00:36:38,192 --> 00:36:41,354
+Having these millions of
+داشتن این همه میلیون
+eyes and ears on the ground.
+گوش و چیم در صحنه و میدان.
+
+773
+00:36:41,354 --> 00:36:43,150
+It's about empowering the crowd,
+قضیه قدرت بخشیدن به مردمه،
+
+774
+00:36:43,150 --> 00:36:44,806
+it's about empowering
+قدرت بخشیدن به اونایی هست
+those who are effected
+که متأثر شده‌ان
+
+775
+00:36:44,806 --> 00:36:46,930
+and those who want to help.
+و اونایی که نیاز به کمک دارن.
+
+776
+00:36:46,930 --> 00:36:48,832
+These are real lives that we're capturing.
+اینا زندگی‌های واقعی هستن که ما به صورت دیجیتالی ثبتشون می‌کنیم.
+
+777
+00:36:48,832 --> 00:36:51,265
+This is not abstract information.
+داده‌‌‌ی انتراعی نیستن.
+
+778
+00:36:51,265 --> 00:36:54,174
+These are real people who
+آدمای واقعی هستن که
+are affected by disasters
+توسط فاجعه متأثر شده‌ان
+
+779
+00:36:54,174 --> 00:36:56,584
+who are trying to either
+کسایی که سعی دارن یا
+help or seek help.
+کمک کنن یا کمک بخوان.
+
+780
+00:36:56,584 --> 00:36:59,079
+It doesn't get more real than this.
+دیگه واقعی‌تر از این نمی‌شه.
+
+781
+00:37:03,534 --> 00:37:05,905
+- Today, technology allows,
+- امروزه، فناوری اجازه می‌ده
+
+782
+00:37:05,905 --> 00:37:08,353
+in a lot of our communication tools,
+توی بسیاری از وسایل ارتباطیمون،
+
+783
+00:37:08,353 --> 00:37:10,772
+allows an idea to be spread instantly
+اجازه می‌ده تا یه ایده به طور آنی منتشر بشه
+
+784
+00:37:10,772 --> 00:37:14,728
+and with the original source of truth.
+اون هم در کنار مبدأ اصلی [اون] حقیقت.
+
+785
+00:37:14,728 --> 00:37:17,589
+I can have an idea and I can decide that
+من می‌تونم یه ایده‌ داشته باشم که
+
+786
+00:37:17,589 --> 00:37:19,015
+I want to bring this around the world
+که بخوام [آدمای] دنیا رو بهش ترغیب کنم
+
+787
+00:37:19,015 --> 00:37:22,675
+and I can do it almost instantaneously.
+و می‌تونم این کار رو تقریباً آنی انجام بدم.
+
+788
+00:37:24,466 --> 00:37:26,328
+- Tunisia's a great example.
+- تونس یه مثال عالیه.
+
+789
+00:37:26,328 --> 00:37:29,826
+There were little uprisings
+قیام‌های کوچکی در سرتاسر
+happening all over Tunisia
+تونس وجود داشت
+
+790
+00:37:29,826 --> 00:37:32,073
+and each one was brutally squashed
+و یک به یکشون با وحشیگری سرکوب می‌شدن
+
+791
+00:37:32,073 --> 00:37:34,285
+and there was no media attention
+و هیچ توجه رسانه‌ای [هم] در کار نبود
+
+792
+00:37:34,285 --> 00:37:38,893
+so no one knew that any other
+بدین ترتیب هیچ کس نمی‌دونست که هر
+little village had an issue.
+روستای خرد دیگه‌ای هم مسئله‌ای داره.
+
+793
+00:37:38,893 --> 00:37:41,764
+But what happened was in one village
+اما اتفاقی که افتاد این بود که توی یه روستا
+
+794
+00:37:41,764 --> 00:37:44,809
+there was the man who
+یه مردی بود که
+self-immolated in protest
+توی تظاهرات خودشو آتش زد
+
+795
+00:37:44,809 --> 00:37:47,749
+and the images were put online
+و عکس‌ها[ی اون] توسط یه گروه
+
+796
+00:37:47,749 --> 00:37:52,546
+by a distant group onto Facebook
+ناشناس توی فیس‌بوک گذاشته شدن
+
+797
+00:37:52,546 --> 00:37:54,445
+and then Al Jazeera picked it up
+و بعدش الجزیره اونو قاپید
+
+798
+00:37:54,445 --> 00:37:57,246
+and broadcasted the
+و عکسه رو توی
+image across their region
+نواحی‌شون پخش کرد
+
+799
+00:37:57,246 --> 00:37:59,400
+and then all of Tunisia realized
+و بعد تمام تونس فهمید که
+
+800
+00:37:59,400 --> 00:38:01,820
+wait a second, we're
+یه لحظه صبر کن ببینم، ما توی
+about to have an uprising
+یه قدمی یه انقلاب هستیم
+
+801
+00:38:01,820 --> 00:38:02,978
+and it just went.
+و همین‌ طور هم شد.
+
+802
+00:38:02,978 --> 00:38:07,967
+(yelling)
+
+803
+00:38:09,600 --> 00:38:13,004
+So Tunisia was really
+به‌این ترتیب تونس به واقع
+activists on the ground,
+در میدان،
+
+804
+00:38:13,004 --> 00:38:16,871
+social media and mainstream
+شبکه‌های اجتماعی و جریان اصلی
+media working together,
+رسانه‌ای مثل اکتیویست‌ها با هم عمل کردن،
+
+805
+00:38:16,871 --> 00:38:19,950
+spreading across Tunisia this idea that
+و این ایده رو در سراسر تونساشعه دادن که
+
+806
+00:38:19,950 --> 00:38:21,489
+you're not the only ones
+شما تنها افراد نیستید
+
+807
+00:38:21,489 --> 00:38:25,186
+and it gave everyone the
+و این به همه شجاعت
+courage to do the uprising.
+قیام کردن رو داد.
+
+808
+00:38:26,847 --> 00:38:29,139
+Technology has fundamentally changed
+فناوری اساساً نحوه‌ی تعامل مردم با
+
+809
+00:38:29,139 --> 00:38:31,582
+the way people interact with government.
+حکومت‌ها رو تغییر داده.
+
+810
+00:38:31,582 --> 00:38:33,838
+That's another layer of the stack
+این لایه‌ی دیگه‌ای از اون پشته‌ای هست
+
+811
+00:38:33,838 --> 00:38:35,412
+that's sort of being opened up.
+که یه جورایی داره بهمون گشوده می شه.
+
+812
+00:38:35,412 --> 00:38:37,496
+I think that's one of the
+فکر می‌کنم این یکی از چالش‌های
+key challenges that big data
+کلیدی هست که کلان داده
+
+813
+00:38:37,496 --> 00:38:40,447
+has so much opportunity for both good
+تا این حد فرصت و موقعیت هم برای خوبی
+
+814
+00:38:40,447 --> 00:38:42,657
+and for also really
+و هم برای نابود کردن نظام‌مون
+screwing up our system.
+در اختیار می‌ذاره.
+
+815
+00:38:42,657 --> 00:38:44,776
+- You can't talk about data
+- شما نمی‌تونید درباره‌ی کلان داده
+without talking about people
+بدون به میون آوردن حرفی از مردم، صحبت کنید
+
+816
+00:38:44,776 --> 00:38:46,314
+because people create the data
+چون که مردم داده‌ها رو تولید می‌کنن
+
+817
+00:38:46,314 --> 00:38:48,271
+and people utilize the data.
+و مرم از همون داده‌ها بهره می‌برن.
+
+818
+00:38:48,271 --> 00:38:52,501
+(whirring)
+
+819
+00:38:58,666 --> 00:39:01,558
+- So a handful of years ago
+خوب ، چند سال پیش
+there's a guy named Andrew Pole
+یه آدمی به اسم اندرو پاول
+
+820
+00:39:01,558 --> 00:39:04,358
+who is a statistician
+که یه متخصص آمار بود
+who gets hired by Target.
+توسط تارگت استخدام شد.
+
+821
+00:39:04,358 --> 00:39:05,772
+He's sitting at his desk and some guys
+پشت میزش می‌نشست و چند تا آدم
+
+822
+00:39:05,772 --> 00:39:07,344
+from the marketing department
+از دپارتمان بازاریابی میان اونجا
+come by and they say,
+و می‌گن،
+
+823
+00:39:07,344 --> 00:39:09,764
+"Look, if we wanted to figure out
+ببین، اگه بخوایم بفهمیم
+
+824
+00:39:09,764 --> 00:39:12,253
+"which of our customers are pregnant,
+کدوم [بخش از] مشتری‌هامون باردار هستن،
+
+825
+00:39:12,253 --> 00:39:14,290
+"could you tell us that?"
+می‌تونی بهمون بگی؟
+
+826
+00:39:14,290 --> 00:39:15,957
+So what Andrew Pole
+بدین ترتیب کاری که
+started doing is he said
+اندرو پاول شروع به انجامش کرد این بود که
+
+827
+00:39:15,957 --> 00:39:19,788
+the women who had signed
+گفت بذار خرید زنانی که
+up for the baby registry,
+برای ثبت اسم نوزاد نام‌نویسی کردن
+
+828
+00:39:19,788 --> 00:39:21,689
+let's track what they're buying
+رو دنبال کنیم و ببینیم
+
+829
+00:39:21,689 --> 00:39:23,805
+and see if there's any patterns.
+که آیا هیچ الگویی وجود داره یا نه.
+
+830
+00:39:23,805 --> 00:39:25,725
+I mean, obviously if
+منظورم اینه که، به طور واضح
+someone starts buying a crib
+اگه کسی شروع به خرید یه گهواره یا
+
+831
+00:39:25,725 --> 00:39:27,519
+or a stroller, you know they're pregnant.
+یه روروک کنه، می‌فهمید که بارداره.
+
+832
+00:39:27,519 --> 00:39:29,797
+But by using all of this
+اما با استفاده از تمام داده‌هایی
+data they had collected,
+که جمع کرده بودن،
+
+833
+00:39:29,797 --> 00:39:32,550
+they were able to start
+[حالا دیگه] می‌تونستن
+seeing these patterns
+شروع به دیدن الگو‌‌هایی کنن که
+
+834
+00:39:32,550 --> 00:39:35,479
+that you couldn't actually guess at.
+شما [هیچ وقت] در عمل نمی‌تونستید حدسشون بزنید.
+
+835
+00:39:36,536 --> 00:39:39,652
+When women were in their second trimester,
+موقعی که زن‌ها توی سه‌ماهه‌ی دومشون بودن،
+
+836
+00:39:39,652 --> 00:39:42,636
+they suddenly stopped
+یهو خرید لوسیون‌های رایحه‌دار
+buying scented lotion
+رو متوقف
+
+837
+00:39:42,636 --> 00:39:44,797
+and started buying unscented lotion
+و شروع به خرید لوسیون‌های بدون رایحه می‌کردن
+
+838
+00:39:44,797 --> 00:39:46,868
+and about at the end of
+و حدود آخرای سه‌ماهه‌ی
+their second trimester,
+دومشون،
+
+839
+00:39:46,868 --> 00:39:49,157
+the beginning of their third
+یعنی شروع سه‌ماهه‌ی سومشون
+trimester, they would start
+شروع به خرید
+
+840
+00:39:49,157 --> 00:39:52,947
+buying a lot of cotton
+یه عالمه گلوله‌ی کاموا
+balls and wash cloths.
+و لوازم نظافت می‌کردن.
+
+841
+00:39:52,947 --> 00:39:56,891
+- And then they could start
+- و بعدش می‌تونستن به نحوی
+to subtly send you coupons
+زیرکانه شروع به فرستادن کوپن‌هایی
+
+842
+00:39:56,891 --> 00:39:59,927
+for things that might be
+به شما برای چیز‌هایی که ممکنه
+related to your pregnancy.
+به بارداریتون مربوط باشه می‌کردن.
+
+843
+00:40:00,742 --> 00:40:02,129
+- The decided to do a little test case.
+- تصمیم گرفتن یا یه تست کیس کوچک انجام بدن.
+
+844
+00:40:02,129 --> 00:40:04,650
+So they send out some of
+بنابراین یه تعداد ار اون تبلیغ‌ها رو
+these ads to a local community
+به  یه جامعه‌ی محلی فرستادن
+
+845
+00:40:04,650 --> 00:40:06,779
+and a couple weeks later
+و یه چند هفته بعد
+this father comes in
+یه پدر میاد توی
+
+846
+00:40:06,779 --> 00:40:09,681
+to one of the stores and he's furious
+یکی از فروشگاه‌ها و در حالی که خشمگینه
+
+847
+00:40:09,681 --> 00:40:12,883
+and he's got a flyer in his
+و یه تبلیغ توی که به خونه‌اش
+hand that was sent to his house
+ارسال شده توی دستشه
+
+848
+00:40:12,883 --> 00:40:15,995
+and he finds the manager
+و مدیر رو پیدا می‌کنه
+and he says to the manager,
+و به مدیره می‌گه،
+
+849
+00:40:15,995 --> 00:40:17,869
+he says, "Look, I'm so upset.
+می‌گه ، ببین من خیلی ناراحتم.
+
+850
+00:40:17,869 --> 00:40:21,231
+"You know, my daughter is 18 years old.
+می‌دونی، دختر من ۱۸ سالشه.
+
+851
+00:40:21,231 --> 00:40:24,178
+"I don't know what you're
+نمی‌دونم منظورتون از فرستادن
+doing sending her this trash.
+این آشغالا برای اون چیه
+
+852
+00:40:24,178 --> 00:40:26,388
+"You sent her these coupons for diapers
+شما بهش از این کوپن‌ها واسه‌ی پوشک
+
+853
+00:40:26,388 --> 00:40:28,954
+"and for cribs and for nursing equipment.
+و گهواره و وسایل شیر دادن می‌فرستید.
+
+854
+00:40:28,954 --> 00:40:30,491
+"She's 18 years old
+اون ۱۸ سالشه
+
+855
+00:40:30,491 --> 00:40:32,734
+"and it's like you're
+و انگار که دارین
+encouraging her to get pregnant."
+تشویقش می‌کنین که باردار بشه.
+
+856
+00:40:32,734 --> 00:40:34,849
+Now the manager, who has
+حالا این وسط ، مدیره که
+no idea what's going on
+هیچ نمی‌دونه ماجرای
+
+857
+00:40:34,849 --> 00:40:37,668
+with the pregnancy prediction machine
+دستگاه تشخیص بارداری که اندرو پاول
+
+858
+00:40:37,668 --> 00:40:39,045
+that Andrew Pole built,
+ساخته چیه،
+
+859
+00:40:39,045 --> 00:40:40,709
+says "Look, I'm so sorry.
+می‌گه، ببین من خیلی متأسفم.
+
+860
+00:40:40,709 --> 00:40:44,027
+"I apologize, it's not
+من معذرت می‌خوام، دیگه چنین
+going to happen again."
+اتفاقی نخواهد افتاد
+
+861
+00:40:44,027 --> 00:40:46,350
+And a couple days later the
+و یه چند روز بعد این بابا اون قدر
+guy feels so bad about this
+درباره‌ی ماجرا احساس بدی داشته که
+
+862
+00:40:46,350 --> 00:40:48,927
+that he calls the father at
+به خونه‌ی پدره زنگ می‌زنه و
+home and he says to the father,
+و به اون پدر می‌گه،
+
+863
+00:40:48,927 --> 00:40:50,638
+"I just wanted to apologize again.
+فقط می‌خواستم باز هم معذرت خواهی کنم
+
+864
+00:40:50,638 --> 00:40:52,372
+"I'm so sorry this happened."
+واقعاً متأسفم که چنین اتفاقی افتاد.
+
+865
+00:40:52,372 --> 00:40:53,910
+And the father kind of
+و پدره یه جورایی که لحظه
+pauses for a moment.
+مکث می‌کنه
+
+866
+00:40:53,910 --> 00:40:56,325
+He says, "Well, I want you to know
+[و] می‌گه، خوب، می‌خوام بدونید که
+
+867
+00:40:56,325 --> 00:40:58,025
+"I had a conversation with my daughter
+من با دخترم یه صحبتی کردم
+
+868
+00:40:58,025 --> 00:41:00,812
+"and there's been some
+و یه سری چیزا توی
+activities in my household
+خونه‌‌ی من رخ داده
+
+869
+00:41:00,812 --> 00:41:02,718
+"that I haven't been aware of
+که من ازشون مطلع نبودم
+
+870
+00:41:02,718 --> 00:41:04,463
+"and she's due in August.
+و اون آگوست فارغ می‌شه.
+
+871
+00:41:04,463 --> 00:41:07,446
+"So I owe you an apology."
+بنابراین من بهتون یه عذرخواهی بدهکارم.
+
+872
+00:41:07,446 --> 00:41:09,027
+And when I asked Andrew Pole about this,
+و وقتی که من از اندرو پاول در این باره پرسیدم،
+
+873
+00:41:09,027 --> 00:41:10,649
+before he stopped talking to me,
+قبل از این که حرف زدن با من رو متوقف کنه،
+
+874
+00:41:10,649 --> 00:41:13,756
+before Target told him that he
+قبل از این که تارگت بهش بگه
+couldn't talk to me anymore,
+که دیگه نمی‌تونه با من حرف بزنه،
+
+875
+00:41:13,756 --> 00:41:17,085
+he said, "Oh look, like
+اون گفت، اوه ببین،
+you gotta understand,
+باید بفهمی، که،
+
+876
+00:41:17,085 --> 00:41:18,912
+"like this science is
+این علم تازه توی
+just at the beginning,
+اول راهشه،
+
+877
+00:41:18,912 --> 00:41:20,853
+"like we're still playing
+ما هنوز داریم به این که
+with what we can figure out
+چی می‌تونیم از زندگی‌تون بفهمیم
+
+878
+00:41:20,853 --> 00:41:22,185
+"about your life."
+ور می‌ریم.
+
+879
+00:41:22,185 --> 00:41:27,159
+(mellow electronic music)
+
+880
+00:41:31,655 --> 00:41:33,479
+- Everybody who's on Facebook is involved
+- هر کسی که توی فیس بوکه درگیر
+
+881
+00:41:33,479 --> 00:41:35,800
+in a transaction in which
+یه ترکنشه که در اون
+they're donating their data
+اون فرد داده‌هاش رو به فیس‌بوک
+
+882
+00:41:35,800 --> 00:41:37,753
+to Facebook, who then sells their data
+اهدا می‌کنه، که اونا هم بعدش داده‌ها‌ی اون فرد رو
+
+883
+00:41:37,753 --> 00:41:39,520
+and in return they get this service
+می‌فروشن و در ازاش خدمتی دریافت می‌کنن
+
+884
+00:41:39,520 --> 00:41:40,860
+which allows them to post pictures
+که بهشون اجازه می‌ده تا عکس‌هاشون رو پست کنن
+
+885
+00:41:40,860 --> 00:41:41,818
+and connect to their friends
+و به دوستانشون متصل بشن
+
+886
+00:41:41,818 --> 00:41:44,060
+and so on and so on and so on and so on.
+و غیره و غیره و امثالها.
+
+887
+00:41:44,060 --> 00:41:45,595
+That's the transaction,
+این همون تراکنشه‌است.
+
+888
+00:41:45,595 --> 00:41:47,869
+but nobody knows that's the transaction.
+اما هیچ کس نمی‌دونه که این همون تراکنشه هست.
+
+889
+00:41:47,869 --> 00:41:49,811
+Most people, I think,
+اکثر مردم، به گمونم،
+don't understand that.
+اینو نمی‌فهمن.
+
+890
+00:41:49,811 --> 00:41:53,023
+They just literally think
+فقط واقعاً فکر می‌کنن که
+they're getting Facebook for free
+دارن به طور رایگان از فیس‌بوک
+
+891
+00:41:53,023 --> 00:41:54,511
+and it's not a free thing,
+استفاده می‌کنن درحالی که چیز رایگانی نیست،
+
+892
+00:41:54,511 --> 00:41:59,487
+we're paying for it by allowing
+ما داریم با اجازه‌ی دسترسی دادم به داده‌ّامون
+them access to our data.
+بهاش رو می‌پردازیم.
+
+893
+00:42:01,719 --> 00:42:04,468
+- There are a lot of people
+- خیلی از آدما توی فیس‌بوک
+on Facebook who don't know,
+هستن که نمی‌دونن،
+
+894
+00:42:04,496 --> 00:42:08,019
+for example, how much
+به طور مثال، واقعاً چه قدر
+information is really out there
+اطلاعات اون بیرون درباره‌ی
+
+895
+00:42:08,019 --> 00:42:10,830
+about themselves and probably
+خودشون وجود داره
+and apparently don't care
+و ظاهراً تا زمانی که بتونن
+
+896
+00:42:10,830 --> 00:42:13,673
+as long as they can put
+عکس گربه‌هاشونو اون تو بذارن،
+up pictures of their cats.
+اهمیتی هم نمی‌دن.
+
+897
+00:42:13,673 --> 00:42:17,407
+I think most people, when
+فکر می‌‌کنم اکثر مردم، وقتی
+they think about privacy,
+درباره‌ی محرمانگی  فکر می‌کنن،
+
+898
+00:42:17,407 --> 00:42:19,749
+they don't seem to connect
+به نظر نمی‌رسه که اشتیاقشون
+
+899
+00:42:19,749 --> 00:42:23,071
+their willingness to share
+برای به اشتراک گذاشتن
+their personal information
+اطلاعات شخصی‌شون با دنیا
+
+900
+00:42:23,071 --> 00:42:25,987
+with the world, either
+چه از طریق شبکه‌‌های اجتماعی
+through social media
+چه از طریق خرید آنلاین
+
+901
+00:42:25,987 --> 00:42:28,342
+or through shopping
+یا هر چیز دیگه‌ای
+online or anything else,
+رو با تحت نظر بودن
+
+902
+00:42:28,342 --> 00:42:32,072
+they don't seem to equate
+مرتبط یا یکسان بدونن.
+that with surveillance.
+
+903
+00:42:34,549 --> 00:42:38,036
+- Every time I receive a text message,
+- هر دفعه که من یه پیام متنی دریافت کنم،
+
+904
+00:42:38,036 --> 00:42:39,974
+every time I make a phone call,
+هر باری که یه تماس تلفنی بگیرم،
+
+905
+00:42:39,974 --> 00:42:41,891
+my location is being recorded.
+مکان من ضبط و نگهداری می‌شه.
+
+906
+00:42:41,891 --> 00:42:45,907
+That data about me is being
+این داده درباره‌ی من در حال
+pushed off to a server
+به یه سرور پوش می‌شه
+
+907
+00:42:45,907 --> 00:42:48,690
+that is owned by my mobile operator.
+که توسط اپراتور موبایلی من مالکییت می‌شه.
+
+908
+00:42:48,690 --> 00:42:50,226
+If I call that mobile
+اگه من با اون اپراتور تلفن
+phone operator and say
+موبایل تماس بگیرم و بگم
+
+909
+00:42:50,226 --> 00:42:52,962
+"Hey, I'd like to have my data, please.
+هی، من داده‌هام رو می‌خوام، لطفاً.
+
+910
+00:42:52,962 --> 00:42:54,069
+"At the minimum, share it with me.
+یا حداقل، باهام به اشتراکش بذارید.
+
+911
+00:42:54,069 --> 00:42:58,639
+"I'd like to see my locations over time."
+دلم می‌خواد مکان‌هایی که در طی زمان بودم رو ببینم.
+
+912
+00:42:58,639 --> 00:43:01,084
+They won't give it to me.
+اونا بهم نمی‌دنش.
+
+913
+00:43:01,084 --> 00:43:04,118
+- The increased ability of
+قابلیت رو به افزایش
+these devices that we have
+دستگاه‌هایی که ما داریم
+
+914
+00:43:04,118 --> 00:43:06,636
+to become recording and sensing objects,
+برای تبدیل شدن به وسایل ضبط و حس،
+
+915
+00:43:06,636 --> 00:43:08,670
+so data collection devices essentially,
+بنابراین دستگاه‌های جمع‌اوری داده ماهیتاً،
+
+916
+00:43:08,670 --> 00:43:12,865
+in public space, that
+در مکان‌های عمومی، خیلی
+changes a lot of things.
+چیز‌ها رو تغییر می‌دن.
+
+917
+00:43:13,390 --> 00:43:15,547
+- Even if the phone company took away
+- حتی اگه اون کمپانی موبایل همه‌ی
+
+918
+00:43:15,558 --> 00:43:17,400
+all of your personal
+اطلاعات مشخص کننده‌ی هویت
+identifying information,
+شخصی شما رو تجزیه تحلیل کنه،
+
+919
+00:43:17,400 --> 00:43:19,813
+it would know within about 30 centimeters
+با دقتی حدود ۳۰ سانتی‌متر خطا می‌فهمه
+
+920
+00:43:19,813 --> 00:43:21,321
+where you woke up every morning
+شما هر روز صبح کجا از خواب بیدار شدید
+
+921
+00:43:21,321 --> 00:43:22,735
+and where you went to work every day
+و هر روز برای کار به کجا رفتید
+
+922
+00:43:22,735 --> 00:43:23,942
+and the path that you took
+و مسیری که انتحاب کردید [کدوم بوده]
+
+923
+00:43:23,942 --> 00:43:25,321
+and who you were walking with
+و داشتید با چه کسانی قدم می‌زدید
+
+924
+00:43:25,321 --> 00:43:27,189
+and so even if they
+و بنابراین حتی اگه در ظاهر ندونن
+didn't know who you are,
+شما کی هستید،
+
+925
+00:43:27,189 --> 00:43:29,190
+they know who you are.
+در عمل می‌دونن شما کی خستید.
+
+926
+00:43:29,890 --> 00:43:33,439
+What I'm really worried about
+چیزی که من واقعاً نگرانشم
+is the cost to democracy.
+هزینه‌ی زیانبار این قضیه برای دموکراسیه.
+
+927
+00:43:33,439 --> 00:43:36,894
+Now, today, it's nearly
+حالا دیگه، توی این دوره زمونه، تقریباً
+impossible to be truly anonymous
+غیرممکنه که بشه حقیقتاً ناشناس موند
+
+928
+00:43:36,894 --> 00:43:40,884
+and so the ability to everything
+و بدین ترتیب قابلیت همه‌چیز برای
+to be connected to you
+مرتبط شدن به شما
+
+929
+00:43:40,884 --> 00:43:42,565
+and for everything you
+و قابلیت این که هر کاری
+do in the real world
+که توی دنیای واقعی انجام می‌دید
+
+930
+00:43:42,565 --> 00:43:44,013
+to be connected to you,
+به شما مرتبط بشه،
+everything you're doing
+هر کاری که توی
+
+931
+00:43:44,013 --> 00:43:46,438
+in cyberspace, and then the ability for
+فضای سایبری انجام می‌دید، و بدین ترتیب قابلیت
+
+932
+00:43:46,438 --> 00:43:48,524
+whoever it is to take
+این که ، هر کسی که باشه، بتونه
+that, put it together,
+اونا رو بگیره و کنار هم بذاره
+
+933
+00:43:48,524 --> 00:43:50,357
+and turn it into a story.
+و اونو به یه روایت تبدیل کنه [هم نگران کننده است].
+
+934
+00:43:50,357 --> 00:43:53,803
+My fear really is that once
+ترس من واقعاً از اینه که
+there's so much data out there
+وقتی که به انداره‌یکافی زیاد داده اون بیرون  وجود داشته باشه
+
+935
+00:43:53,803 --> 00:43:55,599
+and once governments and companies
+و وقتی که حکومت ها و کمپانی‌ها بتونن
+
+936
+00:43:55,599 --> 00:43:58,938
+start to be able to use
+شروع به استفاده از
+that data to profile people,
+اون داده‌ها برای نمایه‌سازی برای مردم،
+
+937
+00:43:58,938 --> 00:44:01,967
+to filter them out, everybody
+و فیلتر کردنشون کنن، همه
+is going to start to worry
+شروع به نگران شدن
+
+938
+00:44:01,967 --> 00:44:04,976
+about their activities.
+درباره‌ی فعالیت‌هاشون خواهند کرد.
+
+939
+00:44:05,477 --> 00:44:09,907
+- We're at a very, very important point
+- ما در نقطه‌ی بسیار بسیار مهمی هستیم
+
+940
+00:44:09,907 --> 00:44:14,552
+where I think our society
+که فکر می‌کنم در اون جامعه‌ی ما
+has come to realize this fact
+به درک این حقیقت رسیده
+
+941
+00:44:14,552 --> 00:44:19,483
+and just begun in earnest to
+و تازه شروع به بحث بیشتر و بیشتر
+debate the implictions of it.
+درباره‌ی عواقب جانبی این قضیه  کرده.
+
+942
+00:44:20,226 --> 00:44:23,998
+- You have, I think,
+- فکر می‌کنم
+an attitude in the NSA
+یه سبک تفکر توی ان اس ای هست
+
+943
+00:44:23,998 --> 00:44:27,354
+that they have a right to
+که می‌گه حق مالکیت هر بیتی
+every bit of information
+از اطلاعات رو که بتونن
+
+944
+00:44:27,354 --> 00:44:29,208
+they can collect.
+جمع‌اوری کنن  دارن.
+
+945
+00:44:29,208 --> 00:44:33,390
+We have constructed a world where
+ما دنیایی ساخته‌ایم که که در اون
+
+946
+00:44:33,390 --> 00:44:35,789
+the government is collecting secretly
+دولت داره به طور مخفی تمام داده‌هایی که
+
+947
+00:44:35,789 --> 00:44:38,691
+all of the data it can on
+می‌تونه از یه شهروند داشته باشه
+each individual citizen,
+رو جمع‌اوری می‌کنه
+
+948
+00:44:38,691 --> 00:44:42,570
+whether that individual citizen
+چه اون فرد کاری اانجام داده باشه
+has done anything or not.
+چه نه.
+
+949
+00:44:42,570 --> 00:44:45,692
+They have been collecting
+اونا داشتن مقادیر عظیمی از
+massive amounts of data
+داده رو از طریق خدمت دهنده‌های
+
+950
+00:44:45,692 --> 00:44:48,744
+through cell phone providers,
+تلفن همراه،
+Internet providers,
+خدمت دهنده‌های اینترنت، جمع آوری می‌کردن
+
+951
+00:44:48,744 --> 00:44:51,510
+that is then sifted through secretly
+که بعدش به طور مخفیانه توسط
+
+952
+00:44:51,510 --> 00:44:55,254
+by people over whom no
+آدمایی که هیچ مرکز دموکراتیکی
+democratic institution
+روشون کوچکترین کنترل واقعی
+
+953
+00:44:55,254 --> 00:44:57,101
+has effective control.
+نداشته بررسی و تحلیل می‌شده.
+
+954
+00:44:58,315 --> 00:45:00,586
+There's a feeling that if you're not
+یه عقیده‌ای وجود داره که می‌گه اگه شما
+
+955
+00:45:00,586 --> 00:45:01,654
+communing with terrorists,
+با تروریست‌ها هم‌دست نیستید،
+
+956
+00:45:01,654 --> 00:45:03,937
+what do you care if the government
+چه اهمیتی می‌دید که آیا دولت
+gathers your information.
+اطلاعاتتون رو جمع‌اوری می‌‌کنه یا نه.
+
+957
+00:45:03,937 --> 00:45:05,929
+This is probably the most pernicious,
+این احتمالاُ مهلک ترین
+
+958
+00:45:05,929 --> 00:45:08,614
+anti Bill of Rights line
+خط مشی فکری ضد لایحه‌ی حقوق
+of thought that there is
+شهروندی موجوده
+
+959
+00:45:08,614 --> 00:45:10,514
+because these are rights
+چرا که این‌ها حقوقی هستن که
+we hold in common.
+ما همگی درش مشترکیم.
+
+960
+00:45:10,514 --> 00:45:12,012
+Every violation of somebody else's rights
+هر تجاوزی به حقوق یکی دیگه
+
+961
+00:45:12,012 --> 00:45:14,124
+is a violation of yours.
+تجاوزی به حقوق خودتونه.
+
+962
+00:45:14,913 --> 00:45:16,609
+- What's going to happen,
+- اتفاقی که داره می‌افته، به گمونم،
+I think, is that we now
+اینه که الآن
+
+963
+00:45:16,609 --> 00:45:19,053
+have so much information
+ما اون قدر اطلاعات در مورد خودمون
+out there about ourselves
+اون بیرون داریم
+
+964
+00:45:19,053 --> 00:45:21,003
+and the ability for people to abuse it,
+که امکان سوء استفاده از اون برای مردم ،
+
+965
+00:45:21,003 --> 00:45:22,410
+people are going to get hurt,
+موجب آسیب دیدن آدما،
+
+966
+00:45:22,410 --> 00:45:23,565
+people are going to lose their jobs,
+از دست دادن شغلشون،
+
+967
+00:45:23,565 --> 00:45:25,180
+people are going to get divorced,
+طلاق گرففتنشون،
+
+968
+00:45:25,180 --> 00:45:27,012
+people are going to get killed
+و [حتی] کشته شدنشون [به طور بالقوه] می‌شه
+
+969
+00:45:27,012 --> 00:45:28,709
+and it's going to become really painful
+و به شدت زجرآور خواهد شد
+
+970
+00:45:28,709 --> 00:45:29,937
+and everyone's going to realize
+و همه خواهند فهمید که
+
+971
+00:45:29,937 --> 00:45:31,818
+we have to do something about this
+باید یه کاری در این مورد بکنیم
+
+972
+00:45:31,818 --> 00:45:33,422
+and then we're going to start to change.
+و بعدش شروع به تغییر خواهیم کرد.
+
+973
+00:45:33,422 --> 00:45:35,831
+Now the question is how bad is it.
+حالا مسئلله اینه که [اوضاع] چه قدر بده؟
+
+974
+00:45:35,831 --> 00:45:38,773
+- [Voiceover] You can't
+- شما نمی‌تونید توی که جمهوری
+have a secret operation
+دموکراتیک عملیاتی سری
+
+975
+00:45:38,773 --> 00:45:42,251
+validated by a secret court
+با مجوز یه دادگاه سری بر اساس
+based on secret evidence
+یه سری مدارک سری
+
+976
+00:45:42,251 --> 00:45:43,450
+in a democratic republic.
+داشته باشید.
+
+977
+00:45:43,450 --> 00:45:46,181
+So the system closes and
+این طوری سیستم بسته می‌شه
+no information gets out
+و هیچ اطلاعاتی به بیرون درز نمی‌کنه
+
+978
+00:45:46,181 --> 00:45:49,912
+except it gets leaked or
+در عوض افشا می‌شه یا
+it gets dumped on the world
+یا توی همه‌ی دنیا
+
+979
+00:45:49,912 --> 00:45:51,733
+by outside actors,
+توسط عوامل خارجی
+whether that's WikiLeaks,
+پخش می‌شه می‌خواد اون طرف ویکی‌لیکس باشه
+
+980
+00:45:51,733 --> 00:45:53,015
+or whether that's Bradley Manning,
+یا بردلی مننیگ یا
+
+981
+00:45:53,015 --> 00:45:54,464
+or whether that's Edward Snowden.
+یا اصلاً ادوارد اسنودن باشه.
+
+982
+00:45:54,464 --> 00:45:56,033
+That's the way that people find out
+این شیوه‌ایه که مردم [باید این روزا]  از طریقش
+
+983
+00:45:56,033 --> 00:45:58,186
+what their government is up to.
+بفهمن مقاصد دولتشون چیه.
+
+984
+00:45:58,186 --> 00:45:59,558
+We're living in a future where we've lost
+ما توی آینده‌ای زندگی می‌کنیم که در اون
+
+985
+00:45:59,558 --> 00:46:00,709
+our right to privacy.
+حق محرمانگی خودمون رو از دست دادیم.
+
+986
+00:46:00,709 --> 00:46:02,114
+We've given it away for convenience sake
+به خاطر به دست آوردن لذت راحتی اقتصادی و
+
+987
+00:46:02,114 --> 00:46:03,945
+in our economic and social lives
+زندگی اجتماعیمون مفت دادیمش بره.
+
+988
+00:46:03,945 --> 00:46:07,488
+and we've lost it for fear's
+و صرفاً به خاطر ترس
+sake vis-a-vis our government.
+از حکومت‌هامون از دستش دادیم.
+
+989
+00:46:10,317 --> 00:46:13,087
+- Any time you're looking
+- هر زمانی که دارید که
+at an ability to segment,
+یه قابلیت برای بخش کردن
+
+990
+00:46:13,087 --> 00:46:16,720
+analyze, you've got to
+تحلیل، رو بررسی می‌کنید
+think about both sides.
+باید به هر دو وجهش فکر کنید.
+
+991
+00:46:17,220 --> 00:46:18,958
+But there's so much good here,
+اما اون قدر چیز خوب توی این [ماجرا] هست،
+
+992
+00:46:18,958 --> 00:46:22,096
+there's so much chance to
+اون قدر فرصت بهبود
+improve the quality of life
+کیفیت زندگی  [باهاش] هست
+
+993
+00:46:22,096 --> 00:46:24,122
+that to basically close the box and say,
+که اساساً بستن جعبه و گفتن،
+
+994
+00:46:24,122 --> 00:46:24,984
+"You know what, we're not going to look
+می‌دونید چیه، ما به هیچ وجه نمی‌خوایم
+
+995
+00:46:24,984 --> 00:46:27,181
+"at all this information,
+این اطلاعات رو بررسی کنیم
+we're not going to collect it,"
+نمی‌خوایم جمع‌اوریشون کنیم،
+
+996
+00:46:27,181 --> 00:46:28,616
+that's not practical.
+چیز معقولی نیست.
+
+997
+00:46:28,616 --> 00:46:31,924
+What we're going to have to
+کاری که ما در آینده‌ی نزدیک باید
+do is think as a community.
+بکنیم فکر کردن به عنوان یه جامعه‌ی واحده.
+
+998
+00:46:32,378 --> 00:46:34,737
+- We have cultures that
+- ما فرهنگ‌هایی رو داریم تا پیش از این هیچ وقت
+have never been in dialogue
+با بیش از ۱۰۰ یا ۲۰۰
+
+999
+00:46:34,737 --> 00:46:37,795
+with more than a hundred
+یا ۴۰۰ تا آدم در گفتگو و تعامل نبودن
+or 200 or 400 people
+ولی الآن با
+
+1000
+00:46:37,795 --> 00:46:41,097
+now connected to three billion.
+سه میلیارد نفر در ارتباطن.
+
+1001
+00:46:41,097 --> 00:46:46,051
+(mellow music)
+
+1002
+00:46:47,582 --> 00:46:49,983
+The phone is the on-ramp
+ موبایل دریچه‌ی ورود به
+to the information network.
+شبکه‌ی اطلاعاته.
+
+1003
+00:46:49,983 --> 00:46:51,833
+Once you're on the information network,
+وقتی که روی شبکه‌ی اطلاعات باشید،
+
+1004
+00:46:51,833 --> 00:46:54,276
+you're in, everybody's in.
+داخل شدید،  همه شدن.
+
+1005
+00:46:54,276 --> 00:46:56,046
+- Billions and billions of people
+- میلیارد‌ها میلیاردها نفر
+
+1006
+00:46:56,046 --> 00:46:58,447
+who have been excluded
+که از بحث کنار
+from the discussion,
+گذاشته شده بودن،
+
+1007
+00:46:58,447 --> 00:47:00,464
+who couldn't afford to step into the world
+که استطاعت قدم گذاشتن به دنیای 
+
+1008
+00:47:00,464 --> 00:47:01,660
+of being connected,
+متصل بودن ،
+
+1009
+00:47:01,660 --> 00:47:03,221
+step into the world of information,
+قدم گذاشتن به دنیای اطلاعات ،
+
+1010
+00:47:03,221 --> 00:47:06,439
+step into the world of
+قدم گذاشتن به دنیای قادر بودن 
+being able to learn things
+به یادگیری چیز‌هایی
+
+1011
+00:47:06,439 --> 00:47:09,789
+they could never learn are
+که هیچ وقت [تا پیش از این] نمی‌تونستن یاد بگیرن رو نداشتن
+suddenly on the network.
+حالا یک مرتبه روی شبکه‌ان.
+
+1012
+00:47:11,690 --> 00:47:12,562
+- [Voiceover] The world of the Internet,
+- دنیای اینترنت،
+
+1013
+00:47:12,562 --> 00:47:13,793
+from an innovation perspective,
+با نگاه به جنبه‌ی نوآوری،
+
+1014
+00:47:13,793 --> 00:47:16,481
+is push innovation out
+داره نوآوری رو از 
+of large institutions
+نهاد‌های بزرگ
+
+1015
+00:47:16,481 --> 00:47:19,003
+to people on the edges.
+به سمت مردم روی لبه‌ها هل می‌ده.
+
+1016
+00:47:21,100 --> 00:47:24,616
+- [Voiceover] I suspect as
+- به ظن من وقتی که 
+we equip these next billion
+یه میلیارد دیگه مصرف‌کننده
+
+1017
+00:47:24,616 --> 00:47:28,980
+consumers with these
+رو به این وسایل که
+devices that connect them
+اونا رو به بقیه‌ی دنیا
+
+1018
+00:47:28,980 --> 00:47:32,290
+with the rest of the world
+و به اینترنت متصل می‌کنه،
+and with the Internet,
+تجهیز کنیم،
+
+1019
+00:47:32,290 --> 00:47:35,964
+we'll have a lot to learn
+چیز‌هایی زیادی برای یادگیری
+about how they use them.
+درباره‌ی نحوه‌ی استفاده‌ی اون‌ها [از اون وسایل]  خواهیم داشت.
+
+1020
+00:47:37,816 --> 00:47:39,344
+- All of these people in these countries
+- این همه آدم توی کشور‌های مختلف
+
+1021
+00:47:39,344 --> 00:47:40,917
+are now connecting with each other,
+حالا دارن به هم متصل می‌شن،
+
+1022
+00:47:40,917 --> 00:47:44,752
+sharing data about prices
+و درباره‌ی قیمت غلات،
+of crops, prices of parts.
+قیمت قطعه زمین داده به اشتراک می‌ذارن.
+
+1023
+00:47:44,752 --> 00:47:46,598
+The Africans are talking to the Chinese
+آفریقایی‌ها با چینی‌ها حرف می‌زنن
+
+1024
+00:47:46,598 --> 00:47:48,458
+who are talking to the Indians
+که اونا هم با هندی ها حرف می‌زنن
+
+1025
+00:47:48,458 --> 00:47:52,243
+and the world is connected
+و دنیا از هر لحاظ
+in its nooks and crannies.
+به هم متصل شده.
+
+1026
+00:47:54,806 --> 00:47:57,614
+- The person that is in Rwanda
+- فردی که توی روانداست
+
+1027
+00:47:57,614 --> 00:48:01,446
+that has their first
+و اولین موبایلش رو داره [تجربه می‌کنه]
+phone that now has access
+که به سیستم آموزشی
+
+1028
+00:48:01,446 --> 00:48:03,832
+to an education system
+متصله که هیچ وقت
+
+1029
+00:48:03,832 --> 00:48:06,549
+that they never could
+تا پیش از این حتی نمی‌تونست
+have dreamed of before
+خوابش روببینه
+
+1030
+00:48:06,549 --> 00:48:09,314
+can start finding solutions
+می‌تونه شروع به پیدا کردن راهکار‌هایی
+
+1031
+00:48:09,314 --> 00:48:13,099
+for his or her little town,
+برای شهر کوچک ،
+
+1032
+00:48:13,099 --> 00:48:15,363
+his or her village.
+روستای خودش بکنه.
+
+1033
+00:48:16,529 --> 00:48:19,818
+- Once we have that
+- وقتی که ما توانایی متصل کردن
+ability to connect people
+مردم به هم داشته باشیم
+
+1034
+00:48:19,864 --> 00:48:21,073
+and they are able to be connected,
+و اونا بتونن به هم متصل بشن،
+
+1035
+00:48:21,073 --> 00:48:23,118
+there's gonna be some genius, you know,
+می‌دونید دیگه، یه نابغه‌ای،
+
+1036
+00:48:23,118 --> 00:48:25,338
+in some remote location who would never
+توی که مکان دور افتاده وجود خواهد داشت که [در قار این صورت]
+
+1037
+00:48:25,338 --> 00:48:26,918
+have been discovered,
+هرگز نمی‌تونست کشف بشه،
+who would never have had
+هرگز نمی‌تونست 
+
+1038
+00:48:26,918 --> 00:48:30,010
+the capability to get to the education,
+توانایی تحصیل رو،
+
+1039
+00:48:30,010 --> 00:48:34,561
+to get to the resources
+گرفتن منابعی که نیاز داره رو
+that he or she needs and...
+ کسب کنه، و ...
+
+1040
+00:48:36,648 --> 00:48:40,902
+that young woman is
+اون زن جوان [حالا با این شرایط]
+going to change the world
+به جای فقط روستای خودش
+
+1041
+00:48:40,902 --> 00:48:43,662
+rather than just changing her village.
+دنیا رو عوض خواهد کرد.
+
+1042
+00:48:44,284 --> 00:48:49,185
+- The idea that that
+- ایده‌ی این که یه نابغه
+genius will be able to find
+بتونه راهش رو
+
+1043
+00:48:49,185 --> 00:48:51,900
+his or her way into the greater culture
+از طریق دریچه‌ی کوچولوی دو در دوی 
+
+1044
+00:48:51,900 --> 00:48:55,061
+through the tiny, little two-by-two window
+یه تلفن رده متوسط 
+
+1045
+00:48:55,061 --> 00:48:58,391
+of a feature phone is very exciting.
+به فرهنگی بزرگ‌تر باز کنه خیلی اشتیاق‌‌آوره.
+
+1046
+00:48:58,391 --> 00:49:01,553
+- A billion people in India,
+- یه میلیارد نفر توی هند،
+a billion people in China,
+یه میلیارد نفر توی چین،
+
+1047
+00:49:01,553 --> 00:49:02,846
+you're talking, you know,
+و از ، می‌دونید دیگه
+
+1048
+00:49:02,846 --> 00:49:04,734
+500 million to a billion in Africa.
+۵۰۰ میلیون تا یه میلیارد نفر توی آفریقا حرف می‌زنی.
+
+1049
+00:49:04,734 --> 00:49:07,239
+Suddenly the world has a lot more minds
+و در آن واحد دنیا یه عالمه ذهن دیگه
+
+1050
+00:49:07,239 --> 00:49:11,748
+connected in the simplest,
+که به ساده‌ترین و ارزون ترین
+least expensive possible way
+شکل ممکن به هم متصل شدن برای
+
+1051
+00:49:11,748 --> 00:49:13,653
+to make the world better.
+بهتر کردن دنیا خواهد داشت.
+
+1052
+00:49:14,472 --> 00:49:16,074
+- So you look at the
+- خوب به انقلاب کشاورزی
+agricultural revolution
+نگاه کنید
+
+1053
+00:49:16,074 --> 00:49:17,595
+and the Industrial Revolution.
+و انقلاب صنعتی.
+
+1054
+00:49:17,595 --> 00:49:19,723
+Is the Internet and
+آیا اینترنت و
+then the data revolution
+انقلاب داده‌ای 
+
+1055
+00:49:19,723 --> 00:49:21,622
+associated with it of that scale?
+باهاش در در این مقیاس قابل قیاسه؟ 
+
+1056
+00:49:21,622 --> 00:49:23,190
+It's certainly possible.
+قطعاً ممکنه.
+
+1057
+00:49:23,190 --> 00:49:24,654
+- I don't think there's any question that
+- فکر نمیکنم جای سؤالی در این باشه که ما
+
+1058
+00:49:24,654 --> 00:49:26,233
+we're at a moment in human historyل
+ در لحظه‌ای در تاریخ بشری هستیم
+
+1059
+00:49:26,233 --> 00:49:28,946
+that we will look back on
+در ۵۰ یا صد سال آینده بهش
+in 50 or a hundred years
+نگاه خواهیم کرد
+
+1060
+00:49:28,946 --> 00:49:33,873
+and say right around 2000
+و خواهیم گفت درست حوش و حوش ۲۰۰۰
+or so it all changed.
+یا یه کم این طرف اون طرف ، همه‌چیز عوض شد.
+
+1061
+00:49:35,766 --> 00:49:37,489
+And I do think we will date
+و فکر می‌کنیم که زمان ما به دو قسمت
+
+1062
+00:49:37,489 --> 00:49:42,013
+before the explosion of data and after.
+قبل از انفجار داده‌ها و بعد از اون تقسیم خواهد شد.
+
+1063
+00:49:42,013 --> 00:49:43,566
+I don't think it's an
+فکر نمی‌کنم این مسئله‌ی
+issue of climate change
+تغییر اقلیم یا
+
+1064
+00:49:43,566 --> 00:49:46,034
+or health or jobs, I
+سلامتی یا شغل باشه، فکر می‌کنم
+think it's all issues.
+همه‌ی مسائله.
+
+1065
+00:49:46,034 --> 00:49:49,300
+Everything has information
+هر چیزی که اطلاعات رو به عنوان هسته‌ی
+at its core, everything.
+خودش داشته باشه، همه‌چیز.
+
+1066
+00:49:49,300 --> 00:49:52,760
+So if information
+بنابراین اطلاعات
+matters, then reorganizing
+مهم هستن، پس بازساماندهی
+
+1067
+00:49:52,760 --> 00:49:54,851
+the entire information
+تمامی شبکه‌ی اطلاعاتی
+network of the planet
+سیاره‌مون
+
+1068
+00:49:54,851 --> 00:49:57,146
+is like wiring up the brain
+مثل به هم وصل کردن سیمای
+of a two-year-old child.
+مغز یه بچه‌ی دو ساله‌است.
+
+1069
+00:49:57,146 --> 00:49:58,585
+Suddenly that child can talk
+و یهو می‌بینی که انگاه اون بچه می‌تونه حرف بزنه
+
+1070
+00:49:58,585 --> 00:50:00,925
+and think and act and behave, right.
+و فکر کنه و عمل کنه و رفتار کنه، درسته؟
+
+1071
+00:50:00,925 --> 00:50:04,326
+The world is wiring up a
+ این طور بگم، جهان داره یه 
+cerebral cortex, if you will,
+ قشر خاکستری از 
+
+1072
+00:50:04,326 --> 00:50:06,482
+of billions of connected elements
+میلیارد‌ها عنصر متصل به هم تشکیل می‌ده
+
+
+1073
+00:50:06,482 --> 00:50:08,706
+that are going to exchange
+که قراره میلیارد‌ها ایده رو
+billions of ideas,
+تبادل کنن
+
+1074
+00:50:08,706 --> 00:50:10,270
+billions of points of knowledge,
+میلیاردها نکته‌ی دانشی،
+
+1075
+00:50:10,270 --> 00:50:13,174
+and billions of ways of working together.
+و میلیاردها راه برای با هم کار کردن رو.
+
+1076
+00:50:13,174 --> 00:50:16,656
+- Together, there becomes
+- رو هم رفته، به یه 
+an enormous wave of change
+موج بزرگ تغییرات بدل می شن
+
+1077
+00:50:16,656 --> 00:50:18,915
+and that wave of change
+و این موج تغییرات
+is going to take us
+ما رو به جاهایی خواهد برد
+
+1078
+00:50:18,915 --> 00:50:22,810
+in directions that we
+که حتی نمی‌تونیم
+can't begin to imagine.
+شروع به دیدنش کنیم.
+
+1079
+00:50:23,295 --> 00:50:27,546
+- The ability to turn that
+- قابلیت تبدیل این داده‌ها
+data into actionable insight
+به بصیرت قابل اتکا برای عمل
+
+1080
+00:50:27,546 --> 00:50:29,358
+is what computers are very good at,
+چیزیه که کامپیوترا توش خوبن
+
+1081
+00:50:29,358 --> 00:50:31,818
+the ability to take action
+توانایی اتخاذ راهکار و عمل
+is what we're really good at
+چیزیه که ما توش خوبیم
+
+1082
+00:50:31,818 --> 00:50:34,951
+and I think it's really
+و فکر می‌کنم واقعاً مهمه
+important to separate those two
+که برای این دو تمایز قائل بشیم 
+
+1083
+00:50:34,951 --> 00:50:37,583
+because people conflate
+چون مردم با هم قاطیشون می‌کنن
+them and get scared
+و می‌ترسن
+
+1084
+00:50:37,583 --> 00:50:39,669
+and think the computers are taking over.
+و فکر می‌کنن کامپوترا دارن ما رو تحت سلطه می‌گیرن.
+
+1085
+00:50:39,669 --> 00:50:42,130
+The computers are this extraordinary tool
+کامپویترا یه سری ابزار خارق‌العاده هستن
+
+1086
+00:50:42,130 --> 00:50:46,096
+that we have at our disposal
+که ما در اختیار داریم تا
+to accelerate our ability
+توانایی‌هامون رو برای
+
+1087
+00:50:46,096 --> 00:50:47,407
+to solve the problems that, frankly,
+حل مسائلی که ، رک و پوست کنده،
+
+1088
+00:50:47,407 --> 00:50:48,885
+we've gotten ourselves into.
+توش گیر کردیم، شتاب بدیم.
+
+1089
+00:50:48,885 --> 00:50:50,642
+- I am fundamentally optimistic,
+- من در بنیان خوش‌بین هستم،
+
+1090
+00:50:50,642 --> 00:50:54,572
+but I'm not blindly, foolishly optimistic.
+اما نه کورکورانه و احمقانه خوش بین.
+
+1091
+00:50:54,572 --> 00:50:57,228
+You got to remember, the
+باید به خاطر داشته باشید، 
+financial crisis was brought to us
+بحران اقتصادی هم به ما توسط
+
+1092
+00:50:57,228 --> 00:51:00,224
+by big data people as well because
+ همین آدمای کلان داده‌ای تحمیل شد
+
+1093
+00:51:00,224 --> 00:51:02,023
+they weren't actually thinking very hard
+چون که اونا واقعاً فکر نمی‌کردن که چه طور می‌تونن
+
+1094
+00:51:02,023 --> 00:51:03,980
+about how do they create
+برای دنیا ارزش‌آقرینی کنن
+value for the world.
+فقط به فکر این بودن
+
+1095
+00:51:03,980 --> 00:51:05,178
+They were just thinking about
+که چه طور می‌تونن
+
+1096
+00:51:05,178 --> 00:51:08,154
+how do they create value for themselves.
+برای خودشون ارزش‌آفرینی کنن.
+
+1097
+00:51:08,694 --> 00:51:10,647
+You know, we have a fair
+می‌دونید، ما 
+amount of literature,
+آثار ادبی کافی،
+
+1098
+00:51:10,647 --> 00:51:12,567
+a fair amount of
+فهمی کافی از این موضوع داریم که
+understanding that if you take
+اگه شما بیشتر از چیزی که
+
+1099
+00:51:12,567 --> 00:51:15,415
+more out of the ecosystem
+به اکوسیستم باز پس می‌دید
+than you put back in,
+ازش بر دارید،
+
+1100
+00:51:15,415 --> 00:51:17,423
+the whole thing breaks down.
+کل سیستم نابود می‌شه.
+
+1101
+00:51:17,423 --> 00:51:21,467
+That's why I think we have
+به همین دلیله که فکر می کنم ما واقعاً
+to actually earn our future.
+برای برای آینده‌مون مستحقمون تلاش کنیم.
+
+1102
+00:51:21,467 --> 00:51:23,785
+We can't just sort of
+ما نمی‌تونیم همین جوری
+pat ourselves on the back
+خودمون رو تحسین کنیم
+
+1103
+00:51:23,785 --> 00:51:25,954
+and think it's just going
+و فکر کنیم که قراره خودش بیاد
+to fall into our laps.
+و بیفته توی بغلمون.
+
+1104
+00:51:25,954 --> 00:51:29,735
+We have to care about what
+باید مراقب باشیم که داریم
+kind of future we're making
+چه نوع آینده‌ای می‌سازیم
+
+1105
+00:51:29,735 --> 00:51:31,460
+and we have to invest in that future
+و باید روی اون آینده سرمایه‌گذاری کنیم
+
+1106
+00:51:31,460 --> 00:51:33,617
+and we have to make the right choices.
+و باید گزینه‌های درست رو انتخاب کنیم.
+
+1107
+00:51:33,617 --> 00:51:37,408
+- It is, to me, paramount
+- این ، برای من، حائظ اهمیت
+that a culture understands,
+فوق‌العاده‌ای هست که یه فرهنگ می‌فهمه،
+
+1108
+00:51:37,408 --> 00:51:39,278
+our culture understands
+فرهنگ ما می‌فهمه،
+
+1109
+00:51:39,278 --> 00:51:44,155
+that we must take this data thing as ours,
+که باید این ماجرای داده‌ای رو از آن خودمون بدونیم،
+
+1110
+00:51:45,248 --> 00:51:47,172
+that we are the platform for it,
+که ما به عنوان پلتفرمش هستیم،
+
+1111
+00:51:47,172 --> 00:51:49,436
+humans, individuals are
+انسان‌، افراد،
+the platform for it,
+پلتفرمش هستن،
+
+1112
+00:51:49,436 --> 00:51:52,051
+that it is not something done to us,
+که چیزی از بیرون تحمیل شده به ما نیست
+
+1113
+00:51:52,051 --> 00:51:55,882
+but rather it is ours to do
+بلکه بیشتر وظیفه‌ی ماست
+with something as we wish.
+که باهاش چیزی که آرزو داریم انجام بدیم.
+
+1114
+00:51:59,420 --> 00:52:01,558
+When I was young, we landed on the moon
+وقتی که جوون بودم، ما روی ماه فرود اومدیم
+
+1115
+00:52:01,558 --> 00:52:05,534
+and so the future to me meant
+و بدین ترتیب آینده برای من به معنای
+going further than that.
+رفتن ورای اون بود.
+
+1116
+00:52:05,534 --> 00:52:07,252
+We looked outward.
+ما به فراتر نگاه می‌کردیم.
+
+1117
+00:52:07,252 --> 00:52:10,495
+Today, I think there's a new energy around
+امروزه، فکر می‌کنم یه جور نیروی جدید حول
+
+1118
+00:52:10,495 --> 00:52:12,891
+the future and it has much more to do
+آینده وجود داره و خیلی بیشتر از پیش ماجرا 
+
+1119
+00:52:12,891 --> 00:52:15,285
+with looking at where we are now
+به نگاه به جایی که الآن توش هستیم
+
+1120
+00:52:15,285 --> 00:52:17,964
+and the globe we stand on
+و کره‌ای که روش ایستادیم
+
+1121
+00:52:17,964 --> 00:52:21,137
+and solving for that.
+و راهکار پیدا کردن برای اون بستگی داره.
+
+1122
+00:52:21,137 --> 00:52:23,940
+The tools that are in our hands now
+ابزارهایی که اکنون در دست داریم 
+
+1123
+00:52:23,940 --> 00:52:26,491
+are going to allow us to do that.
+به ما اجازه انجام این کار رو خواهند داد.
+
+1124
+00:52:26,491 --> 00:52:29,496
+Now it's like no wait a
+حال حاضر این طوریه که خواهیم گفت
+minute, this is our place
+یه دقیقه صبر کن ببینم، این محل متعلق به ماست
+
+1125
+00:52:29,496 --> 00:52:33,597
+and we're going to figure
+و ما در خواهیم یافت چه طور
+out how to make it blossom.
+کاری کنیم تا شکوفا بشه.
+
+1126
+00:52:33,597 --> 00:52:38,465
+(dramatic music)
+
+1127
+00:53:20,286 --> 00:53:25,151
+(mid tempo orchestral music)
+
