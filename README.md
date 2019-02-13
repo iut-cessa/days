@@ -50,3 +50,10 @@ Events held
 * Duration: 2 hours
 * Slides: [part 1](latexday/p1.pdf) | [part 2](latexday/p2.pdf) | [part 3](latexday/p3.pdf)
 * [Source code](latexday/latex)
+
+#### 7. Hadoop day
+* Goal: Start using Hadoop and other big data platforms
+* Instructor: Mahdi Samani ( Co-founder & CTO @ [anacav.com](http://anacav.com/)
+* Date: 20 Azar 1397 (2018 Dec 11)
+* Duration: 2 hours
+* [Presentation: ](latexday/p1.pdf)
