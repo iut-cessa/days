@@ -56,4 +56,4 @@ Events held
 * Instructor: Mahdi Samani ( Co-founder & CTO @ [anacav.com](http://anacav.com/)
 * Date: 20 Azar 1397 (2018 Dec 11)
 * Duration: 2 hours
-* [Presentation](Hadoopday/Big data day.pdf)
+*  [Presentation](Hadoopday/Big data day.pdf)
