@@ -53,7 +53,7 @@ Events held
 
 #### 7. Hadoop day
 * Goal: Start using Hadoop and other big data platforms
-* Instructor: Mahdi Samani ( Co-founder & CTO @ [anacav.com](http://anacav.com/)
+* Instructor: Mahdi Samani ( Co-founder & CTO @ [anacav.com](http://anacav.com/) )
 * Date: 20 Azar 1397 (2018 Dec 11)
 * Duration: 2 hours
 *  [Slides](Hadoopday/Bigdata_day.pdf)
